@@ -1,0 +1,13 @@
+{
+  "total_projects": 15,
+  "project_visuals": 90,
+  "photo_full_avif_median": 195251,
+  "photo_full_avif_max": 322851,
+  "photo_480_avif_median": 24701,
+  "hero_avif_bytes": 261968,
+  "css_bytes": 22416,
+  "js_bytes": 3834,
+  "js_gzip_bytes": 1220,
+  "fonts_total": 91444,
+  "home_html_bytes": 33176
+}

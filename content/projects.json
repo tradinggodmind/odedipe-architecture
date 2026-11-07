@@ -1,0 +1,3857 @@
+[
+  {
+    "id": "01",
+    "slug": "crescent-current-centre",
+    "name": "Crescent Current Centre",
+    "category": "Civic Landmark",
+    "place": "Jabi Lake, Abuja, Nigeria",
+    "programme": "Performance and dance centre",
+    "description": "An ivory plaza rises into two crests at the edge of Jabi Lake. The lower crest opens around the public foyer. The taller one contains the recital hall. A slim planted cut brings daylight between the two and gives the dance studio its own lakeside address.",
+    "reference": "Heydar Aliyev Center",
+    "dimensions": "82 × 54 m; two inhabited levels; 24 m crest.",
+    "arrival": "A visitor ascends the broad public apron into the lake foyer, then turns inland for the recital hall. Workshops and backstage rooms have an uphill service route.",
+    "structure": "A secondary steel space frame follows the two crests. Its bearings sit back from the glazed opening. Panel joints ease the curvature into repeatable strips, and a slot drain separates the plaza from the interior floor.",
+    "palette": "Flamed pale granite runs from plaza to foyer. An iroko handrail returns into an indigo leather bench. Inside the recital room, narrow smoked-iroko ribs wrap the walls and acoustic canopy, with wine-red upholstered seats.",
+    "furniture": "The iroko handrail turns into the back of the lake bench. A finger joint separates the straight rail from its radius. The indigo seat is removable, so it can be re-covered independently of the timber.",
+    "climate": "Keep speech and music out of the gallery using a double-door sound lock. Direct intense rain away from the glazed entrance and test the drip at the shell’s lowest return.",
+    "images": [
+      {
+        "id": "view1",
+        "title": "Plaza rising into roof",
+        "caption": "A pale plaza folds into two roof crests, with a glazed foyer opening toward Jabi Lake. People at the entrance establish the scale of the shell.",
+        "alt": "A pale plaza folds into two roof crests, with a glazed foyer opening toward Jabi Lake. People at the entrance establish the scale of the shell.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/crescent-current-centre/view1-480.avif",
+            "bytes": 22254
+          },
+          {
+            "width": 960,
+            "src": "assets/crescent-current-centre/view1-960.avif",
+            "bytes": 76672
+          },
+          {
+            "width": 1536,
+            "src": "assets/crescent-current-centre/view1-1536.avif",
+            "bytes": 175065
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/crescent-current-centre/view1-960.webp",
+            "bytes": 126660
+          },
+          {
+            "width": 1536,
+            "src": "assets/crescent-current-centre/view1-1536.webp",
+            "bytes": 287584
+          }
+        ],
+        "src": "assets/crescent-current-centre/view1-1536.webp"
+      },
+      {
+        "id": "view2",
+        "title": "Garden between the crests",
+        "caption": "Planted terraces and stepped seating occupy the cut between the two crests. Evening light reveals the different heights of the glazed openings.",
+        "alt": "Planted terraces and stepped seating occupy the cut between the two crests. Evening light reveals the different heights of the glazed openings.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/crescent-current-centre/view2-480.avif",
+            "bytes": 29552
+          },
+          {
+            "width": 960,
+            "src": "assets/crescent-current-centre/view2-960.avif",
+            "bytes": 103994
+          },
+          {
+            "width": 1536,
+            "src": "assets/crescent-current-centre/view2-1536.avif",
+            "bytes": 231309
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/crescent-current-centre/view2-960.webp",
+            "bytes": 167948
+          },
+          {
+            "width": 1536,
+            "src": "assets/crescent-current-centre/view2-1536.webp",
+            "bytes": 380248
+          }
+        ],
+        "src": "assets/crescent-current-centre/view2-1536.webp"
+      },
+      {
+        "id": "view3",
+        "title": "Lake foyer",
+        "caption": "The tall lake-facing window brings water and landscape into the foyer. Curved indigo seating and an iroko handrail give the monumental room a human scale.",
+        "alt": "The tall lake-facing window brings water and landscape into the foyer. Curved indigo seating and an iroko handrail give the monumental room a human scale.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/crescent-current-centre/view3-480.avif",
+            "bytes": 21563
+          },
+          {
+            "width": 960,
+            "src": "assets/crescent-current-centre/view3-960.avif",
+            "bytes": 74000
+          },
+          {
+            "width": 1536,
+            "src": "assets/crescent-current-centre/view3-1536.avif",
+            "bytes": 168995
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/crescent-current-centre/view3-960.webp",
+            "bytes": 120524
+          },
+          {
+            "width": 1536,
+            "src": "assets/crescent-current-centre/view3-1536.webp",
+            "bytes": 277360
+          }
+        ],
+        "src": "assets/crescent-current-centre/view3-1536.webp"
+      },
+      {
+        "id": "view4",
+        "title": "Timber-lined recital hall",
+        "caption": "A ribbed timber canopy curves over wine-red seats and a small recital stage. Side glazing softens the room with late daylight.",
+        "alt": "A ribbed timber canopy curves over wine-red seats and a small recital stage. Side glazing softens the room with late daylight.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/crescent-current-centre/view4-480.avif",
+            "bytes": 21345
+          },
+          {
+            "width": 960,
+            "src": "assets/crescent-current-centre/view4-960.avif",
+            "bytes": 76267
+          },
+          {
+            "width": 1536,
+            "src": "assets/crescent-current-centre/view4-1536.avif",
+            "bytes": 184469
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/crescent-current-centre/view4-960.webp",
+            "bytes": 150892
+          },
+          {
+            "width": 1536,
+            "src": "assets/crescent-current-centre/view4-1536.webp",
+            "bytes": 381706
+          }
+        ],
+        "src": "assets/crescent-current-centre/view4-1536.webp"
+      },
+      {
+        "id": "sketch",
+        "title": "Sectional perspective",
+        "caption": "A charcoal and graphite perspective study of Crescent Current Centre. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "alt": "A charcoal and graphite perspective study of Crescent Current Centre. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "width": 2382,
+        "height": 1684,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/crescent-current-centre/sketch-480.webp",
+            "bytes": 23338
+          },
+          {
+            "width": 960,
+            "src": "assets/crescent-current-centre/sketch-960.webp",
+            "bytes": 93148
+          },
+          {
+            "width": 1800,
+            "src": "assets/crescent-current-centre/sketch-1800.webp",
+            "bytes": 292552
+          }
+        ],
+        "src": "assets/crescent-current-centre/sketch-1800.webp"
+      },
+      {
+        "id": "plan",
+        "title": "General arrangement",
+        "caption": "The concept drawing sheet for Crescent Current Centre, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "alt": "The concept drawing sheet for Crescent Current Centre, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "width": 1800,
+        "height": 1274,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/crescent-current-centre/plan-480.webp",
+            "bytes": 11796
+          },
+          {
+            "width": 960,
+            "src": "assets/crescent-current-centre/plan-960.webp",
+            "bytes": 34556
+          },
+          {
+            "width": 1800,
+            "src": "assets/crescent-current-centre/plan-1800.webp",
+            "bytes": 88914
+          }
+        ],
+        "src": "assets/crescent-current-centre/plan-1800.webp"
+      }
+    ],
+    "downloads": {
+      "blueprint": "assets/crescent-current-centre/blueprint.pdf"
+    }
+  },
+  {
+    "id": "02",
+    "slug": "titanium-reach-museum",
+    "name": "Titanium Reach Museum",
+    "category": "Civic Landmark",
+    "place": "Bjørvika, Oslo, Norway",
+    "programme": "Museum of art on the fjord",
+    "description": "Three titanium lobes turn toward the water. Two limestone bars hold rectangular galleries behind them. A bridge crosses a narrow inlet and lets a visitor see the difference between the intimate galleries and the full height of the central atrium.",
+    "reference": "Guggenheim Museum Bilbao",
+    "dimensions": "88 × 58 m; three inhabited levels; 28 m lantern.",
+    "arrival": "The waterside bridge joins two gallery walks. Art handling and conservation run along the landward bar; visitors orient themselves from the atrium.",
+    "structure": "A braced secondary frame carries the metal lobes independently of the rectilinear galleries. A narrow joint at the bridge lets the two gallery bars move separately. North light enters the atrium above the art-handling route.",
+    "palette": "Bush-hammered pale stone, bead-blasted titanium balustrades and smoked-oak guardrails. The atrium has low felt-topped benches on black steel feet; galleries use a pale, quiet end-grain timber floor.",
+    "furniture": "The felt seat floats on a folded steel foot set in from its edge. A smoked-oak hand surface lines the guard where visitors pause above the bridge; metal is left exposed on its underside.",
+    "climate": "Keep meltwater out of the water-cut bridge joint. Give conservation rooms a controlled envelope and keep the most light-sensitive displays away from the atrium glazing.",
+    "images": [
+      {
+        "id": "view1",
+        "title": "Three lobes on the fjord",
+        "caption": "Curling titanium volumes rise from limestone gallery bars beside the Oslo waterfront. Their reflections extend the silhouette across the inlet.",
+        "alt": "Curling titanium volumes rise from limestone gallery bars beside the Oslo waterfront. Their reflections extend the silhouette across the inlet.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/titanium-reach-museum/view1-480.avif",
+            "bytes": 23357
+          },
+          {
+            "width": 960,
+            "src": "assets/titanium-reach-museum/view1-960.avif",
+            "bytes": 86303
+          },
+          {
+            "width": 1536,
+            "src": "assets/titanium-reach-museum/view1-1536.avif",
+            "bytes": 194548
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/titanium-reach-museum/view1-960.webp",
+            "bytes": 138842
+          },
+          {
+            "width": 1536,
+            "src": "assets/titanium-reach-museum/view1-1536.webp",
+            "bytes": 322430
+          }
+        ],
+        "src": "assets/titanium-reach-museum/view1-1536.webp"
+      },
+      {
+        "id": "view2",
+        "title": "Bridge over the water cut",
+        "caption": "A glazed entrance sits between folded metal and pale stone. The waterside bridge makes the change from city promenade to museum tangible.",
+        "alt": "A glazed entrance sits between folded metal and pale stone. The waterside bridge makes the change from city promenade to museum tangible.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/titanium-reach-museum/view2-480.avif",
+            "bytes": 25743
+          },
+          {
+            "width": 960,
+            "src": "assets/titanium-reach-museum/view2-960.avif",
+            "bytes": 93255
+          },
+          {
+            "width": 1536,
+            "src": "assets/titanium-reach-museum/view2-1536.avif",
+            "bytes": 212393
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/titanium-reach-museum/view2-960.webp",
+            "bytes": 150792
+          },
+          {
+            "width": 1536,
+            "src": "assets/titanium-reach-museum/view2-1536.webp",
+            "bytes": 343506
+          }
+        ],
+        "src": "assets/titanium-reach-museum/view2-1536.webp"
+      },
+      {
+        "id": "view3",
+        "title": "Central atrium",
+        "caption": "A bridge crosses the full height of the central atrium. Diffuse light slides down the metal surfaces toward felt-topped benches on the stone floor.",
+        "alt": "A bridge crosses the full height of the central atrium. Diffuse light slides down the metal surfaces toward felt-topped benches on the stone floor.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/titanium-reach-museum/view3-480.avif",
+            "bytes": 25208
+          },
+          {
+            "width": 960,
+            "src": "assets/titanium-reach-museum/view3-960.avif",
+            "bytes": 89942
+          },
+          {
+            "width": 1536,
+            "src": "assets/titanium-reach-museum/view3-1536.avif",
+            "bytes": 213738
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/titanium-reach-museum/view3-960.webp",
+            "bytes": 149142
+          },
+          {
+            "width": 1536,
+            "src": "assets/titanium-reach-museum/view3-1536.webp",
+            "bytes": 361300
+          }
+        ],
+        "src": "assets/titanium-reach-museum/view3-1536.webp"
+      },
+      {
+        "id": "view4",
+        "title": "Long collection gallery",
+        "caption": "A long collection room frames the silver exterior through a full-height window. Quiet timber flooring and low benches leave the art and the view space to breathe.",
+        "alt": "A long collection room frames the silver exterior through a full-height window. Quiet timber flooring and low benches leave the art and the view space to breathe.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/titanium-reach-museum/view4-480.avif",
+            "bytes": 18993
+          },
+          {
+            "width": 960,
+            "src": "assets/titanium-reach-museum/view4-960.avif",
+            "bytes": 71094
+          },
+          {
+            "width": 1536,
+            "src": "assets/titanium-reach-museum/view4-1536.avif",
+            "bytes": 175926
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/titanium-reach-museum/view4-960.webp",
+            "bytes": 117256
+          },
+          {
+            "width": 1536,
+            "src": "assets/titanium-reach-museum/view4-1536.webp",
+            "bytes": 293780
+          }
+        ],
+        "src": "assets/titanium-reach-museum/view4-1536.webp"
+      },
+      {
+        "id": "sketch",
+        "title": "Sectional perspective",
+        "caption": "A charcoal and graphite perspective study of Titanium Reach Museum. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "alt": "A charcoal and graphite perspective study of Titanium Reach Museum. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "width": 2382,
+        "height": 1684,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/titanium-reach-museum/sketch-480.webp",
+            "bytes": 26466
+          },
+          {
+            "width": 960,
+            "src": "assets/titanium-reach-museum/sketch-960.webp",
+            "bytes": 96100
+          },
+          {
+            "width": 1800,
+            "src": "assets/titanium-reach-museum/sketch-1800.webp",
+            "bytes": 301174
+          }
+        ],
+        "src": "assets/titanium-reach-museum/sketch-1800.webp"
+      },
+      {
+        "id": "plan",
+        "title": "General arrangement",
+        "caption": "The concept drawing sheet for Titanium Reach Museum, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "alt": "The concept drawing sheet for Titanium Reach Museum, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "width": 1800,
+        "height": 1274,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/titanium-reach-museum/plan-480.webp",
+            "bytes": 11442
+          },
+          {
+            "width": 960,
+            "src": "assets/titanium-reach-museum/plan-960.webp",
+            "bytes": 32724
+          },
+          {
+            "width": 1800,
+            "src": "assets/titanium-reach-museum/plan-1800.webp",
+            "bytes": 81818
+          }
+        ],
+        "src": "assets/titanium-reach-museum/plan-1800.webp"
+      }
+    ],
+    "downloads": {
+      "blueprint": "assets/titanium-reach-museum/blueprint.pdf"
+    }
+  },
+  {
+    "id": "03",
+    "slug": "petal-oculus-hall",
+    "name": "Petal Oculus Hall",
+    "category": "Civic Landmark",
+    "place": "Sabarmati riverfront, Ahmedabad, India",
+    "programme": "Chamber-music hall",
+    "description": "Nine radial bays gather around the recital chamber. Outer petals shelter people at the water courts; inner petals rise around the stage. The widened west bay opens a deliberate view of the Sabarmati and gives the hall a different front from its symmetrical precedent.",
+    "reference": "Bahá’í Lotus Temple and Dubai Frame",
+    "dimensions": "56 × 56 m; main floor and balcony; 25 m apex.",
+    "arrival": "Visitors cross a shallow radial water court into the circular recital chamber. A quiet perimeter gallery separates arriving audiences from backstage preparation.",
+    "structure": "Radial concrete ribs rise from the annular base and support paired thin shells. Daylight enters between overlapping shells. The wider western bay frames the river before visitors turn into the music hall.",
+    "palette": "Pale Makrana-type marble, warm sandstone plinths, limewashed inner ribs, teak armrests, and dark saffron wool cushions. Bronze mesh diffuses the daylight between two petals instead of covering the whole ceiling.",
+    "furniture": "Teak armrests soften the edge of the stone seating plinth. Bronze mesh above the aisles filters shafts of light; dark saffron seat backs absorb light near the stage.",
+    "climate": "Provide shaded waiting space before the river crossing. Keep reflecting-water filtration and acoustic isolation independent, and mock up one petal junction at full scale.",
+    "images": [
+      {
+        "id": "view1",
+        "title": "Petals at the river",
+        "caption": "Overlapping pale petals gather above a reflecting court beside the Sabarmati. The entrance opens beneath the low outward-reaching shells.",
+        "alt": "Overlapping pale petals gather above a reflecting court beside the Sabarmati. The entrance opens beneath the low outward-reaching shells.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/petal-oculus-hall/view1-480.avif",
+            "bytes": 21196
+          },
+          {
+            "width": 960,
+            "src": "assets/petal-oculus-hall/view1-960.avif",
+            "bytes": 68771
+          },
+          {
+            "width": 1536,
+            "src": "assets/petal-oculus-hall/view1-1536.avif",
+            "bytes": 146187
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/petal-oculus-hall/view1-960.webp",
+            "bytes": 108540
+          },
+          {
+            "width": 1536,
+            "src": "assets/petal-oculus-hall/view1-1536.webp",
+            "bytes": 222580
+          }
+        ],
+        "src": "assets/petal-oculus-hall/view1-1536.webp"
+      },
+      {
+        "id": "view2",
+        "title": "Outer water court",
+        "caption": "The water court holds the reflected outline of the petals. Warm light behind the glazing makes the entrance visible within the sculptural envelope.",
+        "alt": "The water court holds the reflected outline of the petals. Warm light behind the glazing makes the entrance visible within the sculptural envelope.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/petal-oculus-hall/view2-480.avif",
+            "bytes": 23632
+          },
+          {
+            "width": 960,
+            "src": "assets/petal-oculus-hall/view2-960.avif",
+            "bytes": 79598
+          },
+          {
+            "width": 1536,
+            "src": "assets/petal-oculus-hall/view2-1536.avif",
+            "bytes": 175337
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/petal-oculus-hall/view2-960.webp",
+            "bytes": 126278
+          },
+          {
+            "width": 1536,
+            "src": "assets/petal-oculus-hall/view2-1536.webp",
+            "bytes": 281696
+          }
+        ],
+        "src": "assets/petal-oculus-hall/view2-1536.webp"
+      },
+      {
+        "id": "view3",
+        "title": "Recital chamber",
+        "caption": "Filtered daylight falls between the inner petals onto the circular recital chamber. Warm timber seating follows the radial arrangement around the stage.",
+        "alt": "Filtered daylight falls between the inner petals onto the circular recital chamber. Warm timber seating follows the radial arrangement around the stage.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/petal-oculus-hall/view3-480.avif",
+            "bytes": 18590
+          },
+          {
+            "width": 960,
+            "src": "assets/petal-oculus-hall/view3-960.avif",
+            "bytes": 61627
+          },
+          {
+            "width": 1536,
+            "src": "assets/petal-oculus-hall/view3-1536.avif",
+            "bytes": 141504
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/petal-oculus-hall/view3-960.webp",
+            "bytes": 99072
+          },
+          {
+            "width": 1536,
+            "src": "assets/petal-oculus-hall/view3-1536.webp",
+            "bytes": 220452
+          }
+        ],
+        "src": "assets/petal-oculus-hall/view3-1536.webp"
+      },
+      {
+        "id": "view4",
+        "title": "Sheltered west portal",
+        "caption": "A sheltered gallery follows the curved water edge beneath the west portal. Bronze-toned glazing and low upholstered seats give the threshold a quieter scale.",
+        "alt": "A sheltered gallery follows the curved water edge beneath the west portal. Bronze-toned glazing and low upholstered seats give the threshold a quieter scale.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/petal-oculus-hall/view4-480.avif",
+            "bytes": 22004
+          },
+          {
+            "width": 960,
+            "src": "assets/petal-oculus-hall/view4-960.avif",
+            "bytes": 75685
+          },
+          {
+            "width": 1536,
+            "src": "assets/petal-oculus-hall/view4-1536.avif",
+            "bytes": 170233
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/petal-oculus-hall/view4-960.webp",
+            "bytes": 122664
+          },
+          {
+            "width": 1536,
+            "src": "assets/petal-oculus-hall/view4-1536.webp",
+            "bytes": 278120
+          }
+        ],
+        "src": "assets/petal-oculus-hall/view4-1536.webp"
+      },
+      {
+        "id": "sketch",
+        "title": "Sectional perspective",
+        "caption": "A charcoal and graphite perspective study of Petal Oculus Hall. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "alt": "A charcoal and graphite perspective study of Petal Oculus Hall. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "width": 2382,
+        "height": 1684,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/petal-oculus-hall/sketch-480.webp",
+            "bytes": 23596
+          },
+          {
+            "width": 960,
+            "src": "assets/petal-oculus-hall/sketch-960.webp",
+            "bytes": 86864
+          },
+          {
+            "width": 1800,
+            "src": "assets/petal-oculus-hall/sketch-1800.webp",
+            "bytes": 275350
+          }
+        ],
+        "src": "assets/petal-oculus-hall/sketch-1800.webp"
+      },
+      {
+        "id": "plan",
+        "title": "General arrangement",
+        "caption": "The concept drawing sheet for Petal Oculus Hall, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "alt": "The concept drawing sheet for Petal Oculus Hall, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "width": 1800,
+        "height": 1274,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/petal-oculus-hall/plan-480.webp",
+            "bytes": 13044
+          },
+          {
+            "width": 960,
+            "src": "assets/petal-oculus-hall/plan-960.webp",
+            "bytes": 39962
+          },
+          {
+            "width": 1800,
+            "src": "assets/petal-oculus-hall/plan-1800.webp",
+            "bytes": 101124
+          }
+        ],
+        "src": "assets/petal-oculus-hall/plan-1800.webp"
+      }
+    ],
+    "downloads": {
+      "blueprint": "assets/petal-oculus-hall/blueprint.pdf"
+    }
+  },
+  {
+    "id": "04",
+    "slug": "estuary-spine-tower",
+    "name": "Estuary Spine Tower",
+    "category": "Skyscraper",
+    "place": "Five Cowries Creek, Lagos, Nigeria",
+    "programme": "Creekside residential tower",
+    "description": "White perimeter branches cradle two almond-shaped openings at the base, then narrow along the glass tower. The creek garden enters between the roots. Above, the branches pass the balconies at changing angles, becoming part of the view from the apartments.",
+    "reference": "One Thousand Museum",
+    "dimensions": "44 × 36 m; 52 occupied floors at 4 m; 208 m crown.",
+    "arrival": "Public arrival and deliveries separate at the podium. A fixed central core serves the residences, with a shared pool and club beneath the crown.",
+    "structure": "The perimeter branches and central core share the conceptual load path. Balcony slabs terminate behind the visible Y. The inhabited garden cuts into the podium at grade without interrupting the continuous corner roots.",
+    "palette": "Grey-green terrazzo with a dark stone matrix, saddle-stitched petrol-blue leather, brushed bronze reveals and fine woven palm back panels. Full-height bay glazing is set behind the white structural branches.",
+    "furniture": "Petrol-blue leather is saddle-stitched onto a curved walnut frame. Woven palm forms replaceable backs in the lobby, while a terrazzo skirting separates upholstery from wet shoes.",
+    "climate": "Test high-wind pressures and creek exposure before choosing the frame and glazing. Keep rain channels accessible behind balcony brows and coordinate facade-cleaning access.",
+    "images": [
+      {
+        "id": "view1",
+        "title": "The creekside silhouette",
+        "caption": "White branching perimeter supports climb a slender residential tower above Five Cowries Creek. Rounded balconies sit behind the structural silhouette.",
+        "alt": "White branching perimeter supports climb a slender residential tower above Five Cowries Creek. Rounded balconies sit behind the structural silhouette.",
+        "width": 1024,
+        "height": 1536,
+        "sizes": [
+          480,
+          960,
+          1024
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/estuary-spine-tower/view1-480.avif",
+            "bytes": 39109
+          },
+          {
+            "width": 960,
+            "src": "assets/estuary-spine-tower/view1-960.avif",
+            "bytes": 124386
+          },
+          {
+            "width": 1024,
+            "src": "assets/estuary-spine-tower/view1-1024.avif",
+            "bytes": 137941
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/estuary-spine-tower/view1-960.webp",
+            "bytes": 202366
+          },
+          {
+            "width": 1024,
+            "src": "assets/estuary-spine-tower/view1-1024.webp",
+            "bytes": 231984
+          }
+        ],
+        "src": "assets/estuary-spine-tower/view1-1024.webp"
+      },
+      {
+        "id": "view2",
+        "title": "Arrival between the roots",
+        "caption": "Two almond-shaped openings frame the arrival garden and lobby. Palm planting and people on the public apron reveal the scale of the white perimeter branches.",
+        "alt": "Two almond-shaped openings frame the arrival garden and lobby. Palm planting and people on the public apron reveal the scale of the white perimeter branches.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/estuary-spine-tower/view2-480.avif",
+            "bytes": 25945
+          },
+          {
+            "width": 960,
+            "src": "assets/estuary-spine-tower/view2-960.avif",
+            "bytes": 88553
+          },
+          {
+            "width": 1536,
+            "src": "assets/estuary-spine-tower/view2-1536.avif",
+            "bytes": 193683
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/estuary-spine-tower/view2-960.webp",
+            "bytes": 153356
+          },
+          {
+            "width": 1536,
+            "src": "assets/estuary-spine-tower/view2-1536.webp",
+            "bytes": 334002
+          }
+        ],
+        "src": "assets/estuary-spine-tower/view2-1536.webp"
+      },
+      {
+        "id": "view3",
+        "title": "Residential lobby",
+        "caption": "Full-height glazing opens the residential lobby to the creek. Petrol-blue seating, bronze accents and grey-green terrazzo bring tactile detail to the large volume.",
+        "alt": "Full-height glazing opens the residential lobby to the creek. Petrol-blue seating, bronze accents and grey-green terrazzo bring tactile detail to the large volume.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/estuary-spine-tower/view3-480.avif",
+            "bytes": 26984
+          },
+          {
+            "width": 960,
+            "src": "assets/estuary-spine-tower/view3-960.avif",
+            "bytes": 94587
+          },
+          {
+            "width": 1536,
+            "src": "assets/estuary-spine-tower/view3-1536.avif",
+            "bytes": 211708
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/estuary-spine-tower/view3-960.webp",
+            "bytes": 158548
+          },
+          {
+            "width": 1536,
+            "src": "assets/estuary-spine-tower/view3-1536.webp",
+            "bytes": 358938
+          }
+        ],
+        "src": "assets/estuary-spine-tower/view3-1536.webp"
+      },
+      {
+        "id": "view4",
+        "title": "Upper-floor waterside residence",
+        "caption": "A dining room faces the sunset across the creek. The white exterior branch passes beyond the glazing, tying the private interior to the tower’s structure.",
+        "alt": "A dining room faces the sunset across the creek. The white exterior branch passes beyond the glazing, tying the private interior to the tower’s structure.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/estuary-spine-tower/view4-480.avif",
+            "bytes": 20452
+          },
+          {
+            "width": 960,
+            "src": "assets/estuary-spine-tower/view4-960.avif",
+            "bytes": 74415
+          },
+          {
+            "width": 1536,
+            "src": "assets/estuary-spine-tower/view4-1536.avif",
+            "bytes": 171779
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/estuary-spine-tower/view4-960.webp",
+            "bytes": 120630
+          },
+          {
+            "width": 1536,
+            "src": "assets/estuary-spine-tower/view4-1536.webp",
+            "bytes": 283888
+          }
+        ],
+        "src": "assets/estuary-spine-tower/view4-1536.webp"
+      },
+      {
+        "id": "sketch",
+        "title": "Sectional perspective",
+        "caption": "A charcoal and graphite perspective study of Estuary Spine Tower. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "alt": "A charcoal and graphite perspective study of Estuary Spine Tower. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "width": 2382,
+        "height": 1684,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/estuary-spine-tower/sketch-480.webp",
+            "bytes": 25442
+          },
+          {
+            "width": 960,
+            "src": "assets/estuary-spine-tower/sketch-960.webp",
+            "bytes": 92818
+          },
+          {
+            "width": 1800,
+            "src": "assets/estuary-spine-tower/sketch-1800.webp",
+            "bytes": 278574
+          }
+        ],
+        "src": "assets/estuary-spine-tower/sketch-1800.webp"
+      },
+      {
+        "id": "plan",
+        "title": "General arrangement",
+        "caption": "The concept drawing sheet for Estuary Spine Tower, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "alt": "The concept drawing sheet for Estuary Spine Tower, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "width": 1800,
+        "height": 1274,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/estuary-spine-tower/plan-480.webp",
+            "bytes": 11386
+          },
+          {
+            "width": 960,
+            "src": "assets/estuary-spine-tower/plan-960.webp",
+            "bytes": 32100
+          },
+          {
+            "width": 1800,
+            "src": "assets/estuary-spine-tower/plan-1800.webp",
+            "bytes": 80862
+          }
+        ],
+        "src": "assets/estuary-spine-tower/plan-1800.webp"
+      }
+    ],
+    "downloads": {
+      "blueprint": "assets/estuary-spine-tower/blueprint.pdf"
+    }
+  },
+  {
+    "id": "05",
+    "slug": "meridian-rift-tower",
+    "name": "Meridian Rift Tower",
+    "category": "Skyscraper",
+    "place": "Qianhai, Shenzhen, China",
+    "programme": "Workplace tower and public atrium",
+    "description": "Two glazed halves turn past one another above a shared plaza. The diagonal rift remains visible all the way to the crown. Three bridges cross it at different heights so the building’s most unusual space is also part of the working day.",
+    "reference": "Leeza SOHO",
+    "dimensions": "54 × 40 m; 44 occupied floors at 4 m; 176 m crest.",
+    "arrival": "The plaza continues into a full-height atrium. Two independent vertical cores work on opposite sides. Enclosed bridges connect the halves at three defined levels.",
+    "structure": "Two independent cores reach ground on opposite sides of the atrium. Curved floor edges are carried back to each core. Bridges at L12, L24 and L36 bridge the fissure and can accommodate relative movement.",
+    "palette": "Blackened aluminium balcony noses, brushed bronze rails, smoke-coloured terrazzo and celadon wool. An oval reception desk is clad in vertically brushed pewter. The atrium floor and balcony edges reflect more softly than a mirror.",
+    "furniture": "A pewter desk has vertical brush marks that conceal small scratches. Celadon bridge seats sit low enough to keep the changing section visible from both directions.",
+    "climate": "Study wind and stack effect, fire compartments and smoke extraction through the tall atrium. Separate bridge movement from glazed enclosure tolerances.",
+    "images": [
+      {
+        "id": "view1",
+        "title": "A tower divided by light",
+        "caption": "Two glazed halves turn around a diagonal fissure that remains visible from plaza to crown. Warm internal light makes the atrium legible against the evening skyline.",
+        "alt": "Two glazed halves turn around a diagonal fissure that remains visible from plaza to crown. Warm internal light makes the atrium legible against the evening skyline.",
+        "width": 1024,
+        "height": 1536,
+        "sizes": [
+          480,
+          960,
+          1024
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/meridian-rift-tower/view1-480.avif",
+            "bytes": 54015
+          },
+          {
+            "width": 960,
+            "src": "assets/meridian-rift-tower/view1-960.avif",
+            "bytes": 179460
+          },
+          {
+            "width": 1024,
+            "src": "assets/meridian-rift-tower/view1-1024.avif",
+            "bytes": 202848
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/meridian-rift-tower/view1-960.webp",
+            "bytes": 282928
+          },
+          {
+            "width": 1024,
+            "src": "assets/meridian-rift-tower/view1-1024.webp",
+            "bytes": 324290
+          }
+        ],
+        "src": "assets/meridian-rift-tower/view1-1024.webp"
+      },
+      {
+        "id": "view2",
+        "title": "Entrance at the diagonal seam",
+        "caption": "The entrance follows the diagonal seam between the two halves. Curving glass edges meet a shaded public plaza at the base of the atrium.",
+        "alt": "The entrance follows the diagonal seam between the two halves. Curving glass edges meet a shaded public plaza at the base of the atrium.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/meridian-rift-tower/view2-480.avif",
+            "bytes": 36163
+          },
+          {
+            "width": 960,
+            "src": "assets/meridian-rift-tower/view2-960.avif",
+            "bytes": 130748
+          },
+          {
+            "width": 1536,
+            "src": "assets/meridian-rift-tower/view2-1536.avif",
+            "bytes": 283678
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/meridian-rift-tower/view2-960.webp",
+            "bytes": 221574
+          },
+          {
+            "width": 1536,
+            "src": "assets/meridian-rift-tower/view2-1536.webp",
+            "bytes": 497258
+          }
+        ],
+        "src": "assets/meridian-rift-tower/view2-1536.webp"
+      },
+      {
+        "id": "view3",
+        "title": "View up the atrium",
+        "caption": "Bridges span the tall atrium at different levels. Bronze rails, dark balcony edges and a softly reflective floor reinforce its changing depth.",
+        "alt": "Bridges span the tall atrium at different levels. Bronze rails, dark balcony edges and a softly reflective floor reinforce its changing depth.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/meridian-rift-tower/view3-480.avif",
+            "bytes": 29202
+          },
+          {
+            "width": 960,
+            "src": "assets/meridian-rift-tower/view3-960.avif",
+            "bytes": 99988
+          },
+          {
+            "width": 1536,
+            "src": "assets/meridian-rift-tower/view3-1536.avif",
+            "bytes": 224893
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/meridian-rift-tower/view3-960.webp",
+            "bytes": 168982
+          },
+          {
+            "width": 1536,
+            "src": "assets/meridian-rift-tower/view3-1536.webp",
+            "bytes": 385352
+          }
+        ],
+        "src": "assets/meridian-rift-tower/view3-1536.webp"
+      },
+      {
+        "id": "view4",
+        "title": "L24 bridge lounge",
+        "caption": "Low celadon seats gather around a table on the bridge lounge. Views through the atrium connect this intimate working space to the building’s full section.",
+        "alt": "Low celadon seats gather around a table on the bridge lounge. Views through the atrium connect this intimate working space to the building’s full section.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/meridian-rift-tower/view4-480.avif",
+            "bytes": 21197
+          },
+          {
+            "width": 960,
+            "src": "assets/meridian-rift-tower/view4-960.avif",
+            "bytes": 74802
+          },
+          {
+            "width": 1536,
+            "src": "assets/meridian-rift-tower/view4-1536.avif",
+            "bytes": 176155
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/meridian-rift-tower/view4-960.webp",
+            "bytes": 122602
+          },
+          {
+            "width": 1536,
+            "src": "assets/meridian-rift-tower/view4-1536.webp",
+            "bytes": 293682
+          }
+        ],
+        "src": "assets/meridian-rift-tower/view4-1536.webp"
+      },
+      {
+        "id": "sketch",
+        "title": "Sectional perspective",
+        "caption": "A charcoal and graphite perspective study of Meridian Rift Tower. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "alt": "A charcoal and graphite perspective study of Meridian Rift Tower. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "width": 2382,
+        "height": 1684,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/meridian-rift-tower/sketch-480.webp",
+            "bytes": 23246
+          },
+          {
+            "width": 960,
+            "src": "assets/meridian-rift-tower/sketch-960.webp",
+            "bytes": 87594
+          },
+          {
+            "width": 1800,
+            "src": "assets/meridian-rift-tower/sketch-1800.webp",
+            "bytes": 268162
+          }
+        ],
+        "src": "assets/meridian-rift-tower/sketch-1800.webp"
+      },
+      {
+        "id": "plan",
+        "title": "General arrangement",
+        "caption": "The concept drawing sheet for Meridian Rift Tower, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "alt": "The concept drawing sheet for Meridian Rift Tower, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "width": 1800,
+        "height": 1274,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/meridian-rift-tower/plan-480.webp",
+            "bytes": 12464
+          },
+          {
+            "width": 960,
+            "src": "assets/meridian-rift-tower/plan-960.webp",
+            "bytes": 37730
+          },
+          {
+            "width": 1800,
+            "src": "assets/meridian-rift-tower/plan-1800.webp",
+            "bytes": 96484
+          }
+        ],
+        "src": "assets/meridian-rift-tower/plan-1800.webp"
+      }
+    ],
+    "downloads": {
+      "blueprint": "assets/meridian-rift-tower/blueprint.pdf"
+    }
+  },
+  {
+    "id": "06",
+    "slug": "tidefold-tower",
+    "name": "Tidefold Tower",
+    "category": "Skyscraper",
+    "place": "West Kowloon, Hong Kong",
+    "programme": "Office and events tower",
+    "description": "The waterfront podium turns into four rounded glass lobes. The twist eases as the tower rises; one deeply recessed sky garden marks the upper floors. A transparent crown puts the ballroom, rather than plant or signage, at the top of the public silhouette.",
+    "reference": "The Henderson and Generali Tower",
+    "dimensions": "50 × 42 m; 50 occupied floors at 4 m; 200 m crest.",
+    "arrival": "The street lobby joins the waterfront promenade. Upper offices surround a fixed core. A planted terrace occupies L27 and the ballroom occupies the crown.",
+    "structure": "The cores remain fixed as perimeter plates turn near the base. Four broad glass lobes settle into a clear crown. A recessed L27 terrace opens one side while keeping the continuous service route above.",
+    "palette": "Pale celadon glass, satin nickel, cream limestone and fluted cast-glass screens. Dark mulberry upholstery on crescent benches makes the rounded lobby legible; the crown ballroom has a finely ribbed ash floor.",
+    "furniture": "A mulberry crescent seat makes the lobby’s curved glass legible at body height. The ballroom floor changes direction across the lobe with thin ash strips and quiet movement joints.",
+    "climate": "Coordinate wind loading, sun control and access around the bulging corners. Simulate driven rain at the garden notch and protect terrace doors with a drained threshold.",
+    "images": [
+      {
+        "id": "view1",
+        "title": "Four lobes above the harbour",
+        "caption": "Four rounded glass lobes rise from a twisting waterfront podium. A recessed planted notch interrupts the tower before the transparent crown.",
+        "alt": "Four rounded glass lobes rise from a twisting waterfront podium. A recessed planted notch interrupts the tower before the transparent crown.",
+        "width": 1024,
+        "height": 1536,
+        "sizes": [
+          480,
+          960,
+          1024
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/tidefold-tower/view1-480.avif",
+            "bytes": 43083
+          },
+          {
+            "width": 960,
+            "src": "assets/tidefold-tower/view1-960.avif",
+            "bytes": 144892
+          },
+          {
+            "width": 1024,
+            "src": "assets/tidefold-tower/view1-1024.avif",
+            "bytes": 163085
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/tidefold-tower/view1-960.webp",
+            "bytes": 237618
+          },
+          {
+            "width": 1024,
+            "src": "assets/tidefold-tower/view1-1024.webp",
+            "bytes": 272122
+          }
+        ],
+        "src": "assets/tidefold-tower/view1-1024.webp"
+      },
+      {
+        "id": "view2",
+        "title": "Glass podium",
+        "caption": "Curved glazing flows outward at the podium above a public waterfront route. The close view makes the turning geometry and entrance scale visible.",
+        "alt": "Curved glazing flows outward at the podium above a public waterfront route. The close view makes the turning geometry and entrance scale visible.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/tidefold-tower/view2-480.avif",
+            "bytes": 27338
+          },
+          {
+            "width": 960,
+            "src": "assets/tidefold-tower/view2-960.avif",
+            "bytes": 98304
+          },
+          {
+            "width": 1536,
+            "src": "assets/tidefold-tower/view2-1536.avif",
+            "bytes": 217176
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/tidefold-tower/view2-960.webp",
+            "bytes": 159070
+          },
+          {
+            "width": 1536,
+            "src": "assets/tidefold-tower/view2-1536.webp",
+            "bytes": 360866
+          }
+        ],
+        "src": "assets/tidefold-tower/view2-1536.webp"
+      },
+      {
+        "id": "view3",
+        "title": "Elevated lift lobby",
+        "caption": "Mulberry crescent benches sit beside cream limestone and fluted glass in the elevated lift lobby. The harbour remains visible through the curved enclosure.",
+        "alt": "Mulberry crescent benches sit beside cream limestone and fluted glass in the elevated lift lobby. The harbour remains visible through the curved enclosure.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/tidefold-tower/view3-480.avif",
+            "bytes": 21702
+          },
+          {
+            "width": 960,
+            "src": "assets/tidefold-tower/view3-960.avif",
+            "bytes": 71913
+          },
+          {
+            "width": 1536,
+            "src": "assets/tidefold-tower/view3-1536.avif",
+            "bytes": 157310
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/tidefold-tower/view3-960.webp",
+            "bytes": 119780
+          },
+          {
+            "width": 1536,
+            "src": "assets/tidefold-tower/view3-1536.webp",
+            "bytes": 261974
+          }
+        ],
+        "src": "assets/tidefold-tower/view3-1536.webp"
+      },
+      {
+        "id": "view4",
+        "title": "Crown ballroom",
+        "caption": "A glazed ballroom occupies the crown. Repeated dining tables and a ribbed timber floor follow the long room toward a wide harbour view.",
+        "alt": "A glazed ballroom occupies the crown. Repeated dining tables and a ribbed timber floor follow the long room toward a wide harbour view.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/tidefold-tower/view4-480.avif",
+            "bytes": 25425
+          },
+          {
+            "width": 960,
+            "src": "assets/tidefold-tower/view4-960.avif",
+            "bytes": 83666
+          },
+          {
+            "width": 1536,
+            "src": "assets/tidefold-tower/view4-1536.avif",
+            "bytes": 185900
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/tidefold-tower/view4-960.webp",
+            "bytes": 147578
+          },
+          {
+            "width": 1536,
+            "src": "assets/tidefold-tower/view4-1536.webp",
+            "bytes": 332994
+          }
+        ],
+        "src": "assets/tidefold-tower/view4-1536.webp"
+      },
+      {
+        "id": "sketch",
+        "title": "Sectional perspective",
+        "caption": "A charcoal and graphite perspective study of Tidefold Tower. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "alt": "A charcoal and graphite perspective study of Tidefold Tower. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "width": 2382,
+        "height": 1684,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/tidefold-tower/sketch-480.webp",
+            "bytes": 22484
+          },
+          {
+            "width": 960,
+            "src": "assets/tidefold-tower/sketch-960.webp",
+            "bytes": 86930
+          },
+          {
+            "width": 1800,
+            "src": "assets/tidefold-tower/sketch-1800.webp",
+            "bytes": 268674
+          }
+        ],
+        "src": "assets/tidefold-tower/sketch-1800.webp"
+      },
+      {
+        "id": "plan",
+        "title": "General arrangement",
+        "caption": "The concept drawing sheet for Tidefold Tower, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "alt": "The concept drawing sheet for Tidefold Tower, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "width": 1800,
+        "height": 1274,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/tidefold-tower/plan-480.webp",
+            "bytes": 14042
+          },
+          {
+            "width": 960,
+            "src": "assets/tidefold-tower/plan-960.webp",
+            "bytes": 41594
+          },
+          {
+            "width": 1800,
+            "src": "assets/tidefold-tower/plan-1800.webp",
+            "bytes": 105314
+          }
+        ],
+        "src": "assets/tidefold-tower/plan-1800.webp"
+      }
+    ],
+    "downloads": {
+      "blueprint": "assets/tidefold-tower/blueprint.pdf"
+    }
+  },
+  {
+    "id": "07",
+    "slug": "cala-shell-residence",
+    "name": "Cala Shell Residence",
+    "category": "Mansion Villa",
+    "place": "Luštica Peninsula, Montenegro",
+    "programme": "Coastal mansion villa",
+    "description": "The roof wraps a private pool court in a single almond-shaped contour. Its upper lip lifts to give the salon shade and an open sea view. The landward shell thickens into the entry cleft and protects the upper bedrooms from the arrival path.",
+    "reference": "Rock and Shell Villas · Shell",
+    "dimensions": "38 × 23 m; two levels; 8 m shell crest.",
+    "arrival": "An uphill cleft leads into the upper sleeping wing; a stair curls down to the sheltered salon and pool terrace. A service passage follows the thick landward flank.",
+    "structure": "A curved perimeter beam follows the almond shell and supports its tapering cantilever over the water. Glazing stays back from the sharp lip. The uphill entry breaks the contour without closing the sea view.",
+    "palette": "Pearl-toned exterior, pale bush-hammered limestone on the terrace, waxed walnut inside and sea-green linen. A curved walnut banquette sits at the sheltered end of the pool court; its cushion seams follow the aperture.",
+    "furniture": "The curved walnut banquette is built in segments; cushion seams stop at the panel joints. A pale stone curb distinguishes the pool from the living floor even when both surfaces are wet.",
+    "climate": "Shield the long glazed salon from low summer sun. Separate pool-water drainage from roof runoff and use a replaceable marine-facing edge trim.",
+    "images": [
+      {
+        "id": "view1",
+        "title": "An almond above the coast",
+        "caption": "An almond-shaped white roof encloses a private pool court on the Luštica hillside. Its lifted sea edge opens the house toward the bay.",
+        "alt": "An almond-shaped white roof encloses a private pool court on the Luštica hillside. Its lifted sea edge opens the house toward the bay.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/cala-shell-residence/view1-480.avif",
+            "bytes": 29328
+          },
+          {
+            "width": 960,
+            "src": "assets/cala-shell-residence/view1-960.avif",
+            "bytes": 112962
+          },
+          {
+            "width": 1536,
+            "src": "assets/cala-shell-residence/view1-1536.avif",
+            "bytes": 261968
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/cala-shell-residence/view1-960.webp",
+            "bytes": 181478
+          },
+          {
+            "width": 1536,
+            "src": "assets/cala-shell-residence/view1-1536.webp",
+            "bytes": 438336
+          }
+        ],
+        "src": "assets/cala-shell-residence/view1-1536.webp"
+      },
+      {
+        "id": "view2",
+        "title": "Carved pool terrace",
+        "caption": "The shell shades a curved pool terrace furnished with low, soft seating. The long contour gathers the pool, salon and upper walkway into one composition.",
+        "alt": "The shell shades a curved pool terrace furnished with low, soft seating. The long contour gathers the pool, salon and upper walkway into one composition.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/cala-shell-residence/view2-480.avif",
+            "bytes": 26057
+          },
+          {
+            "width": 960,
+            "src": "assets/cala-shell-residence/view2-960.avif",
+            "bytes": 91185
+          },
+          {
+            "width": 1536,
+            "src": "assets/cala-shell-residence/view2-1536.avif",
+            "bytes": 207594
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/cala-shell-residence/view2-960.webp",
+            "bytes": 147350
+          },
+          {
+            "width": 1536,
+            "src": "assets/cala-shell-residence/view2-1536.webp",
+            "bytes": 333026
+          }
+        ],
+        "src": "assets/cala-shell-residence/view2-1536.webp"
+      },
+      {
+        "id": "view3",
+        "title": "Sea salon",
+        "caption": "Sea-green linen and pale stone sit beneath the salon’s sheltered roof. Sliding glass aligns the living space with the pool and the distant coastline.",
+        "alt": "Sea-green linen and pale stone sit beneath the salon’s sheltered roof. Sliding glass aligns the living space with the pool and the distant coastline.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/cala-shell-residence/view3-480.avif",
+            "bytes": 20718
+          },
+          {
+            "width": 960,
+            "src": "assets/cala-shell-residence/view3-960.avif",
+            "bytes": 73453
+          },
+          {
+            "width": 1536,
+            "src": "assets/cala-shell-residence/view3-1536.avif",
+            "bytes": 175434
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/cala-shell-residence/view3-960.webp",
+            "bytes": 120326
+          },
+          {
+            "width": 1536,
+            "src": "assets/cala-shell-residence/view3-1536.webp",
+            "bytes": 288988
+          }
+        ],
+        "src": "assets/cala-shell-residence/view3-1536.webp"
+      },
+      {
+        "id": "view4",
+        "title": "Primary suite",
+        "caption": "The primary suite looks across the pool to the bay. Muted green bedding, walnut joinery and a deep roof overhang keep the outlook calm and shaded.",
+        "alt": "The primary suite looks across the pool to the bay. Muted green bedding, walnut joinery and a deep roof overhang keep the outlook calm and shaded.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/cala-shell-residence/view4-480.avif",
+            "bytes": 20083
+          },
+          {
+            "width": 960,
+            "src": "assets/cala-shell-residence/view4-960.avif",
+            "bytes": 75956
+          },
+          {
+            "width": 1536,
+            "src": "assets/cala-shell-residence/view4-1536.avif",
+            "bytes": 182221
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/cala-shell-residence/view4-960.webp",
+            "bytes": 126458
+          },
+          {
+            "width": 1536,
+            "src": "assets/cala-shell-residence/view4-1536.webp",
+            "bytes": 311562
+          }
+        ],
+        "src": "assets/cala-shell-residence/view4-1536.webp"
+      },
+      {
+        "id": "sketch",
+        "title": "Sectional perspective",
+        "caption": "A charcoal and graphite perspective study of Cala Shell Residence. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "alt": "A charcoal and graphite perspective study of Cala Shell Residence. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "width": 2382,
+        "height": 1684,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/cala-shell-residence/sketch-480.webp",
+            "bytes": 27106
+          },
+          {
+            "width": 960,
+            "src": "assets/cala-shell-residence/sketch-960.webp",
+            "bytes": 104998
+          },
+          {
+            "width": 1800,
+            "src": "assets/cala-shell-residence/sketch-1800.webp",
+            "bytes": 308302
+          }
+        ],
+        "src": "assets/cala-shell-residence/sketch-1800.webp"
+      },
+      {
+        "id": "plan",
+        "title": "General arrangement",
+        "caption": "The concept drawing sheet for Cala Shell Residence, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "alt": "The concept drawing sheet for Cala Shell Residence, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "width": 1800,
+        "height": 1274,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/cala-shell-residence/plan-480.webp",
+            "bytes": 11812
+          },
+          {
+            "width": 960,
+            "src": "assets/cala-shell-residence/plan-960.webp",
+            "bytes": 35112
+          },
+          {
+            "width": 1800,
+            "src": "assets/cala-shell-residence/plan-1800.webp",
+            "bytes": 92238
+          }
+        ],
+        "src": "assets/cala-shell-residence/plan-1800.webp"
+      }
+    ],
+    "downloads": {
+      "blueprint": "assets/cala-shell-residence/blueprint.pdf"
+    }
+  },
+  {
+    "id": "08",
+    "slug": "treecrown-residence",
+    "name": "Treecrown Residence",
+    "category": "Mansion Villa",
+    "place": "Karuizawa, Nagano, Japan",
+    "programme": "Forest mansion villa",
+    "description": "The family occupies a low glazed wing embedded in the forest floor. Two inclined concrete stems carry a pair of glazed capsules above the trees. One capsule holds the bedroom, the other a reading room. The lift slit between the stems makes the ascent visible from outside.",
+    "reference": "Capital Hill Residence",
+    "dimensions": "38 × 24 m base; two low levels and a crown floor at +18 m; 22 m crest.",
+    "arrival": "The low family wing sits against the slope. A lift and enclosed stair within the mast serve a high, private sleeping and reading floor.",
+    "structure": "Two inclined concrete stems transfer the sleeping capsules back to the embedded base. The mast encloses lift and stair; its narrow slot exposes the ascent. The lower roof steps into the forest floor.",
+    "palette": "Ivory mineral concrete, blackened elm casework, brushed pewter pulls and moss-green wool. Shoji-like vertical screens sit inside insulated glass; the crown has a fixed elm bed ledge and a single paper reading lamp.",
+    "furniture": "A blackened-elm bed ledge follows the crown window. An independent interior screen can close for privacy without changing the silhouette of the glazed capsule.",
+    "climate": "Test crown vibration, snow loading, seismic response and foundations on the sloping site. Keep forest drainage outside the lower retaining walls.",
+    "images": [
+      {
+        "id": "view1",
+        "title": "A house above the canopy",
+        "caption": "A low glazed family wing rests among the trees while two inclined stems lift separate glazed capsules above the forest. The exposed lift slit marks the ascent.",
+        "alt": "A low glazed family wing rests among the trees while two inclined stems lift separate glazed capsules above the forest. The exposed lift slit marks the ascent.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/treecrown-residence/view1-480.avif",
+            "bytes": 29889
+          },
+          {
+            "width": 960,
+            "src": "assets/treecrown-residence/view1-960.avif",
+            "bytes": 116769
+          },
+          {
+            "width": 1536,
+            "src": "assets/treecrown-residence/view1-1536.avif",
+            "bytes": 266058
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/treecrown-residence/view1-960.webp",
+            "bytes": 187232
+          },
+          {
+            "width": 1536,
+            "src": "assets/treecrown-residence/view1-1536.webp",
+            "bytes": 436796
+          }
+        ],
+        "src": "assets/treecrown-residence/view1-1536.webp"
+      },
+      {
+        "id": "view2",
+        "title": "Mast and split crown at dusk",
+        "caption": "At dusk, warm light reveals the split crown and the long forest-level wing. The concrete stems stand clearly between the two inhabited layers.",
+        "alt": "At dusk, warm light reveals the split crown and the long forest-level wing. The concrete stems stand clearly between the two inhabited layers.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/treecrown-residence/view2-480.avif",
+            "bytes": 30239
+          },
+          {
+            "width": 960,
+            "src": "assets/treecrown-residence/view2-960.avif",
+            "bytes": 109941
+          },
+          {
+            "width": 1536,
+            "src": "assets/treecrown-residence/view2-1536.avif",
+            "bytes": 242851
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/treecrown-residence/view2-960.webp",
+            "bytes": 179530
+          },
+          {
+            "width": 1536,
+            "src": "assets/treecrown-residence/view2-1536.webp",
+            "bytes": 393024
+          }
+        ],
+        "src": "assets/treecrown-residence/view2-1536.webp"
+      },
+      {
+        "id": "view3",
+        "title": "Crown bedroom",
+        "caption": "The crown bedroom looks across the canopy through corner glazing. A fixed dark timber bed ledge and moss-green textiles keep the room close to the forest palette.",
+        "alt": "The crown bedroom looks across the canopy through corner glazing. A fixed dark timber bed ledge and moss-green textiles keep the room close to the forest palette.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/treecrown-residence/view3-480.avif",
+            "bytes": 18202
+          },
+          {
+            "width": 960,
+            "src": "assets/treecrown-residence/view3-960.avif",
+            "bytes": 70521
+          },
+          {
+            "width": 1536,
+            "src": "assets/treecrown-residence/view3-1536.avif",
+            "bytes": 175541
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/treecrown-residence/view3-960.webp",
+            "bytes": 111646
+          },
+          {
+            "width": 1536,
+            "src": "assets/treecrown-residence/view3-1536.webp",
+            "bytes": 282898
+          }
+        ],
+        "src": "assets/treecrown-residence/view3-1536.webp"
+      },
+      {
+        "id": "view4",
+        "title": "Forest-floor salon",
+        "caption": "Canted glazing brings trunks and dappled light into the lower salon. Low green seating, dark joinery and a recessed hearth ground the long room.",
+        "alt": "Canted glazing brings trunks and dappled light into the lower salon. Low green seating, dark joinery and a recessed hearth ground the long room.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/treecrown-residence/view4-480.avif",
+            "bytes": 22489
+          },
+          {
+            "width": 960,
+            "src": "assets/treecrown-residence/view4-960.avif",
+            "bytes": 84013
+          },
+          {
+            "width": 1536,
+            "src": "assets/treecrown-residence/view4-1536.avif",
+            "bytes": 195955
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/treecrown-residence/view4-960.webp",
+            "bytes": 136780
+          },
+          {
+            "width": 1536,
+            "src": "assets/treecrown-residence/view4-1536.webp",
+            "bytes": 324916
+          }
+        ],
+        "src": "assets/treecrown-residence/view4-1536.webp"
+      },
+      {
+        "id": "sketch",
+        "title": "Sectional perspective",
+        "caption": "A charcoal and graphite perspective study of Treecrown Residence. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "alt": "A charcoal and graphite perspective study of Treecrown Residence. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "width": 2382,
+        "height": 1684,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/treecrown-residence/sketch-480.webp",
+            "bytes": 28328
+          },
+          {
+            "width": 960,
+            "src": "assets/treecrown-residence/sketch-960.webp",
+            "bytes": 104190
+          },
+          {
+            "width": 1800,
+            "src": "assets/treecrown-residence/sketch-1800.webp",
+            "bytes": 319238
+          }
+        ],
+        "src": "assets/treecrown-residence/sketch-1800.webp"
+      },
+      {
+        "id": "plan",
+        "title": "General arrangement",
+        "caption": "The concept drawing sheet for Treecrown Residence, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "alt": "The concept drawing sheet for Treecrown Residence, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "width": 1800,
+        "height": 1274,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/treecrown-residence/plan-480.webp",
+            "bytes": 10378
+          },
+          {
+            "width": 960,
+            "src": "assets/treecrown-residence/plan-960.webp",
+            "bytes": 29208
+          },
+          {
+            "width": 1800,
+            "src": "assets/treecrown-residence/plan-1800.webp",
+            "bytes": 71054
+          }
+        ],
+        "src": "assets/treecrown-residence/plan-1800.webp"
+      }
+    ],
+    "downloads": {
+      "blueprint": "assets/treecrown-residence/blueprint.pdf"
+    }
+  },
+  {
+    "id": "09",
+    "slug": "strata-prow-villa",
+    "name": "Strata Prow Villa",
+    "category": "Mansion Villa",
+    "place": "Hout Bay, Cape Town, South Africa",
+    "programme": "Hillside mansion villa",
+    "description": "A thin roof projects above a thicker triangular terrace. Between them, a long pool narrows toward the prow, and the living rooms open along the sheltered side. Only the inland windbreak curves; the roof and pool keep their sharp edges.",
+    "reference": "Rock and Shell Villas · Rock",
+    "dimensions": "42 × 26 m; two levels; 9 m roof edge.",
+    "arrival": "The upper entry opens onto the short end of the wedge. Living and dining share its long sea edge; bedrooms sit below, with a protected service route on the uphill side.",
+    "structure": "The projecting roof plane is back-spanned into the uphill service wall. The long pool occupies the thicker lower terrace; a separate drainage zone protects the living-room sill from splash and sea spray.",
+    "palette": "Shell-white fair-faced concrete, honed charcoal quartzite, weathered bronze and oxblood saddle leather. A tapered walnut dining table meets the pool-facing wall with a concealed expansion joint.",
+    "furniture": "A tapered walnut dining table echoes the prow in plan. Its hidden expansion joint permits seasonal movement while a straight sightline remains open to the headland.",
+    "climate": "Model wind suction at the thin tip. Inspect waterproofing and provide a repair route along the more sheltered landward edge of the pool.",
+    "images": [
+      {
+        "id": "view1",
+        "title": "A terrace pointed toward the sea",
+        "caption": "A triangular terrace and thin roof project toward Hout Bay. The narrow pool follows the prow while the uphill edge holds the house against the slope.",
+        "alt": "A triangular terrace and thin roof project toward Hout Bay. The narrow pool follows the prow while the uphill edge holds the house against the slope.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/strata-prow-villa/view1-480.avif",
+            "bytes": 29408
+          },
+          {
+            "width": 960,
+            "src": "assets/strata-prow-villa/view1-960.avif",
+            "bytes": 112095
+          },
+          {
+            "width": 1536,
+            "src": "assets/strata-prow-villa/view1-1536.avif",
+            "bytes": 254816
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/strata-prow-villa/view1-960.webp",
+            "bytes": 184104
+          },
+          {
+            "width": 1536,
+            "src": "assets/strata-prow-villa/view1-1536.webp",
+            "bytes": 438440
+          }
+        ],
+        "src": "assets/strata-prow-villa/view1-1536.webp"
+      },
+      {
+        "id": "view2",
+        "title": "Pool edge and pointed prow",
+        "caption": "The pool tapers along a sheltered terrace facing the headland. A thin roof lip and long glass wall keep the sea horizon uninterrupted.",
+        "alt": "The pool tapers along a sheltered terrace facing the headland. A thin roof lip and long glass wall keep the sea horizon uninterrupted.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/strata-prow-villa/view2-480.avif",
+            "bytes": 20616
+          },
+          {
+            "width": 960,
+            "src": "assets/strata-prow-villa/view2-960.avif",
+            "bytes": 71100
+          },
+          {
+            "width": 1536,
+            "src": "assets/strata-prow-villa/view2-1536.avif",
+            "bytes": 156640
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/strata-prow-villa/view2-960.webp",
+            "bytes": 110164
+          },
+          {
+            "width": 1536,
+            "src": "assets/strata-prow-villa/view2-1536.webp",
+            "bytes": 249048
+          }
+        ],
+        "src": "assets/strata-prow-villa/view2-1536.webp"
+      },
+      {
+        "id": "view3",
+        "title": "Terrace salon",
+        "caption": "A low salon opens along the pool edge. Oxblood leather, charcoal stone and walnut give warmth and weight beneath the pale roof plane.",
+        "alt": "A low salon opens along the pool edge. Oxblood leather, charcoal stone and walnut give warmth and weight beneath the pale roof plane.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/strata-prow-villa/view3-480.avif",
+            "bytes": 18498
+          },
+          {
+            "width": 960,
+            "src": "assets/strata-prow-villa/view3-960.avif",
+            "bytes": 66295
+          },
+          {
+            "width": 1536,
+            "src": "assets/strata-prow-villa/view3-1536.avif",
+            "bytes": 157238
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/strata-prow-villa/view3-960.webp",
+            "bytes": 107612
+          },
+          {
+            "width": 1536,
+            "src": "assets/strata-prow-villa/view3-1536.webp",
+            "bytes": 263574
+          }
+        ],
+        "src": "assets/strata-prow-villa/view3-1536.webp"
+      },
+      {
+        "id": "view4",
+        "title": "Sheltered dining terrace",
+        "caption": "The dining terrace sits beneath the long cantilever beside the pool. Bronze-toned objects and soft outdoor seating catch the late coastal light.",
+        "alt": "The dining terrace sits beneath the long cantilever beside the pool. Bronze-toned objects and soft outdoor seating catch the late coastal light.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/strata-prow-villa/view4-480.avif",
+            "bytes": 18197
+          },
+          {
+            "width": 960,
+            "src": "assets/strata-prow-villa/view4-960.avif",
+            "bytes": 60918
+          },
+          {
+            "width": 1536,
+            "src": "assets/strata-prow-villa/view4-1536.avif",
+            "bytes": 136738
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/strata-prow-villa/view4-960.webp",
+            "bytes": 95806
+          },
+          {
+            "width": 1536,
+            "src": "assets/strata-prow-villa/view4-1536.webp",
+            "bytes": 211536
+          }
+        ],
+        "src": "assets/strata-prow-villa/view4-1536.webp"
+      },
+      {
+        "id": "sketch",
+        "title": "Sectional perspective",
+        "caption": "A charcoal and graphite perspective study of Strata Prow Villa. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "alt": "A charcoal and graphite perspective study of Strata Prow Villa. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "width": 2382,
+        "height": 1684,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/strata-prow-villa/sketch-480.webp",
+            "bytes": 29344
+          },
+          {
+            "width": 960,
+            "src": "assets/strata-prow-villa/sketch-960.webp",
+            "bytes": 112090
+          },
+          {
+            "width": 1800,
+            "src": "assets/strata-prow-villa/sketch-1800.webp",
+            "bytes": 340368
+          }
+        ],
+        "src": "assets/strata-prow-villa/sketch-1800.webp"
+      },
+      {
+        "id": "plan",
+        "title": "General arrangement",
+        "caption": "The concept drawing sheet for Strata Prow Villa, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "alt": "The concept drawing sheet for Strata Prow Villa, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "width": 1800,
+        "height": 1274,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/strata-prow-villa/plan-480.webp",
+            "bytes": 9960
+          },
+          {
+            "width": 960,
+            "src": "assets/strata-prow-villa/plan-960.webp",
+            "bytes": 29316
+          },
+          {
+            "width": 1800,
+            "src": "assets/strata-prow-villa/plan-1800.webp",
+            "bytes": 73208
+          }
+        ],
+        "src": "assets/strata-prow-villa/plan-1800.webp"
+      }
+    ],
+    "downloads": {
+      "blueprint": "assets/strata-prow-villa/blueprint.pdf"
+    }
+  },
+  {
+    "id": "10",
+    "slug": "split-ribbon-duplex",
+    "name": "Split Ribbon Duplex",
+    "category": "Duplex",
+    "place": "Ikoyi, Lagos, Nigeria",
+    "programme": "Paired two-storey homes",
+    "description": "A continuous white ribbon rises over two independent front doors, dips at the party wall and lifts again over the second home. From the garden, two separate patios make that division equally clear. Each household has two upstairs bedrooms and its own stair.",
+    "reference": "Heydar Aliyev Center and Shell Villa",
+    "dimensions": "24 × 16 m; two floors; 8 m crests.",
+    "arrival": "Each home has its own street door, stair, kitchen, two upper bedrooms and private rear garden. The shared dip in the roof marks the party line from the street.",
+    "structure": "Independent dwelling frames meet at a continuous party wall. The white ribbon dips above that wall, then rises over two separate glazed fronts. A split gutter follows the low point so the two homes have independent rainwater services.",
+    "palette": "Brass gauze, iroko ceiling battens and indigo strip-woven aso-oke upholstery. Honey-toned terrazzo floors wrap the stairs. One walnut settle fits each ribbon's concave wall; each home has its own garden.",
+    "furniture": "Indigo strip-woven panels run across a removable settle back. Each textile width is visible at its stitched seam; iroko battens continue the ceiling rhythm through the shaded rear patio.",
+    "climate": "Provide acoustic and fire separation at the full party-wall height. The deep brow shades glazing and keeps the private garden thresholds sheltered in heavy rain.",
+    "images": [
+      {
+        "id": "view1",
+        "title": "One ribbon, two homes",
+        "caption": "A white roof ribbon rises above two glazed fronts and dips at the shared party wall. Separate gates establish the independence of the two homes.",
+        "alt": "A white roof ribbon rises above two glazed fronts and dips at the shared party wall. Separate gates establish the independence of the two homes.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/split-ribbon-duplex/view1-480.avif",
+            "bytes": 31540
+          },
+          {
+            "width": 960,
+            "src": "assets/split-ribbon-duplex/view1-960.avif",
+            "bytes": 117961
+          },
+          {
+            "width": 1536,
+            "src": "assets/split-ribbon-duplex/view1-1536.avif",
+            "bytes": 272439
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/split-ribbon-duplex/view1-960.webp",
+            "bytes": 198212
+          },
+          {
+            "width": 1536,
+            "src": "assets/split-ribbon-duplex/view1-1536.webp",
+            "bytes": 465744
+          }
+        ],
+        "src": "assets/split-ribbon-duplex/view1-1536.webp"
+      },
+      {
+        "id": "view2",
+        "title": "Separate garden patios",
+        "caption": "Two garden patios sit behind the paired shells, divided by a planted boundary. Each glazed living room has its own sheltered outdoor threshold.",
+        "alt": "Two garden patios sit behind the paired shells, divided by a planted boundary. Each glazed living room has its own sheltered outdoor threshold.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/split-ribbon-duplex/view2-480.avif",
+            "bytes": 33404
+          },
+          {
+            "width": 960,
+            "src": "assets/split-ribbon-duplex/view2-960.avif",
+            "bytes": 124332
+          },
+          {
+            "width": 1536,
+            "src": "assets/split-ribbon-duplex/view2-1536.avif",
+            "bytes": 279265
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/split-ribbon-duplex/view2-960.webp",
+            "bytes": 201596
+          },
+          {
+            "width": 1536,
+            "src": "assets/split-ribbon-duplex/view2-1536.webp",
+            "bytes": 461784
+          }
+        ],
+        "src": "assets/split-ribbon-duplex/view2-1536.webp"
+      },
+      {
+        "id": "view3",
+        "title": "Left home’s family salon",
+        "caption": "Indigo strip-woven upholstery sits beneath an iroko-batten ceiling in the left home. Warm terrazzo connects the salon to the curved stair.",
+        "alt": "Indigo strip-woven upholstery sits beneath an iroko-batten ceiling in the left home. Warm terrazzo connects the salon to the curved stair.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/split-ribbon-duplex/view3-480.avif",
+            "bytes": 23975
+          },
+          {
+            "width": 960,
+            "src": "assets/split-ribbon-duplex/view3-960.avif",
+            "bytes": 83993
+          },
+          {
+            "width": 1536,
+            "src": "assets/split-ribbon-duplex/view3-1536.avif",
+            "bytes": 197195
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/split-ribbon-duplex/view3-960.webp",
+            "bytes": 151628
+          },
+          {
+            "width": 1536,
+            "src": "assets/split-ribbon-duplex/view3-1536.webp",
+            "bytes": 356046
+          }
+        ],
+        "src": "assets/split-ribbon-duplex/view3-1536.webp"
+      },
+      {
+        "id": "view4",
+        "title": "Right home’s stair and dining room",
+        "caption": "The right home’s dining room opens to a garden beneath a sculptural stair. Timber battens, indigo seating and warm brass lighting repeat the shared material language.",
+        "alt": "The right home’s dining room opens to a garden beneath a sculptural stair. Timber battens, indigo seating and warm brass lighting repeat the shared material language.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/split-ribbon-duplex/view4-480.avif",
+            "bytes": 21861
+          },
+          {
+            "width": 960,
+            "src": "assets/split-ribbon-duplex/view4-960.avif",
+            "bytes": 76369
+          },
+          {
+            "width": 1536,
+            "src": "assets/split-ribbon-duplex/view4-1536.avif",
+            "bytes": 177406
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/split-ribbon-duplex/view4-960.webp",
+            "bytes": 134314
+          },
+          {
+            "width": 1536,
+            "src": "assets/split-ribbon-duplex/view4-1536.webp",
+            "bytes": 312150
+          }
+        ],
+        "src": "assets/split-ribbon-duplex/view4-1536.webp"
+      },
+      {
+        "id": "sketch",
+        "title": "Sectional perspective",
+        "caption": "A charcoal and graphite perspective study of Split Ribbon Duplex. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "alt": "A charcoal and graphite perspective study of Split Ribbon Duplex. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "width": 2382,
+        "height": 1684,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/split-ribbon-duplex/sketch-480.webp",
+            "bytes": 21696
+          },
+          {
+            "width": 960,
+            "src": "assets/split-ribbon-duplex/sketch-960.webp",
+            "bytes": 81360
+          },
+          {
+            "width": 1800,
+            "src": "assets/split-ribbon-duplex/sketch-1800.webp",
+            "bytes": 261086
+          }
+        ],
+        "src": "assets/split-ribbon-duplex/sketch-1800.webp"
+      },
+      {
+        "id": "plan",
+        "title": "General arrangement",
+        "caption": "The concept drawing sheet for Split Ribbon Duplex, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "alt": "The concept drawing sheet for Split Ribbon Duplex, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "width": 1800,
+        "height": 1274,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/split-ribbon-duplex/plan-480.webp",
+            "bytes": 11010
+          },
+          {
+            "width": 960,
+            "src": "assets/split-ribbon-duplex/plan-960.webp",
+            "bytes": 33120
+          },
+          {
+            "width": 1800,
+            "src": "assets/split-ribbon-duplex/plan-1800.webp",
+            "bytes": 82616
+          }
+        ],
+        "src": "assets/split-ribbon-duplex/plan-1800.webp"
+      }
+    ],
+    "downloads": {
+      "blueprint": "assets/split-ribbon-duplex/blueprint.pdf"
+    }
+  },
+  {
+    "id": "11",
+    "slug": "twin-prow-duplex",
+    "name": "Twin Prow Duplex",
+    "category": "Duplex",
+    "place": "Cascais, Portugal",
+    "programme": "Garden flat and upper maisonette",
+    "description": "Two white terrace planes point in opposite directions on the Atlantic slope. The lower home reaches its garden on one level. A stone blade conceals the separate stair to the upper maisonette, keeping the two arrivals private.",
+    "reference": "Rock Villa and Fallingwater",
+    "dimensions": "22 × 16 m; garden flat plus two-storey maisonette; 11 m crest.",
+    "arrival": "The street splits into two entrances. One reaches the garden flat directly. The second climbs behind a stone blade to the upper two-level dwelling.",
+    "structure": "Two straight terrace planes project in opposite directions. A stone blade conceals the stair to the upper maisonette, separating its entrance from the garden flat. Each roof fall drains to its own service edge.",
+    "palette": "Oxide-red lime plaster, smoked chestnut, sea-green glazed ceramic at wash points and rope-webbed dining chairs. Recessed tracks let curtains stack inside the taper rather than obstruct the glass.",
+    "furniture": "A rope-webbed dining chair keeps air moving through the seat. Curtain stacks disappear behind smoked chestnut reveals so the wedge-shaped opening stays clear when the glass opens.",
+    "climate": "Check wind pressure at the Atlantic-facing prows. Keep the public entry stair independent of the lower private garden and provide a non-slip sheltered landing.",
+    "images": [
+      {
+        "id": "view1",
+        "title": "Opposing terrace planes",
+        "caption": "Two terrace planes point in opposite directions on a planted Atlantic slope. A stone blade separates the garden flat from the upper home’s entry.",
+        "alt": "Two terrace planes point in opposite directions on a planted Atlantic slope. A stone blade separates the garden flat from the upper home’s entry.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/twin-prow-duplex/view1-480.avif",
+            "bytes": 30029
+          },
+          {
+            "width": 960,
+            "src": "assets/twin-prow-duplex/view1-960.avif",
+            "bytes": 114015
+          },
+          {
+            "width": 1536,
+            "src": "assets/twin-prow-duplex/view1-1536.avif",
+            "bytes": 261160
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/twin-prow-duplex/view1-960.webp",
+            "bytes": 185542
+          },
+          {
+            "width": 1536,
+            "src": "assets/twin-prow-duplex/view1-1536.webp",
+            "bytes": 442104
+          }
+        ],
+        "src": "assets/twin-prow-duplex/view1-1536.webp"
+      },
+      {
+        "id": "view2",
+        "title": "Upper entrance stair",
+        "caption": "An external stair climbs beside the stone wall to the upper maisonette. Evening light distinguishes the sheltered entrances and projecting terrace edges.",
+        "alt": "An external stair climbs beside the stone wall to the upper maisonette. Evening light distinguishes the sheltered entrances and projecting terrace edges.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/twin-prow-duplex/view2-480.avif",
+            "bytes": 27778
+          },
+          {
+            "width": 960,
+            "src": "assets/twin-prow-duplex/view2-960.avif",
+            "bytes": 103667
+          },
+          {
+            "width": 1536,
+            "src": "assets/twin-prow-duplex/view2-1536.avif",
+            "bytes": 236367
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/twin-prow-duplex/view2-960.webp",
+            "bytes": 163490
+          },
+          {
+            "width": 1536,
+            "src": "assets/twin-prow-duplex/view2-1536.webp",
+            "bytes": 382962
+          }
+        ],
+        "src": "assets/twin-prow-duplex/view2-1536.webp"
+      },
+      {
+        "id": "view3",
+        "title": "Upper maisonette",
+        "caption": "Oxide-red plaster and sea-green ceramic give the upper living room a warm interior horizon. Rope-webbed chairs sit beside the wide opening to the sea.",
+        "alt": "Oxide-red plaster and sea-green ceramic give the upper living room a warm interior horizon. Rope-webbed chairs sit beside the wide opening to the sea.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/twin-prow-duplex/view3-480.avif",
+            "bytes": 21386
+          },
+          {
+            "width": 960,
+            "src": "assets/twin-prow-duplex/view3-960.avif",
+            "bytes": 75132
+          },
+          {
+            "width": 1536,
+            "src": "assets/twin-prow-duplex/view3-1536.avif",
+            "bytes": 175330
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/twin-prow-duplex/view3-960.webp",
+            "bytes": 125658
+          },
+          {
+            "width": 1536,
+            "src": "assets/twin-prow-duplex/view3-1536.webp",
+            "bytes": 302024
+          }
+        ],
+        "src": "assets/twin-prow-duplex/view3-1536.webp"
+      },
+      {
+        "id": "view4",
+        "title": "Garden flat and terrace",
+        "caption": "The garden flat opens directly to its lawn and shaded terrace. Stone, timber and red plaster continue the material language across the lower level.",
+        "alt": "The garden flat opens directly to its lawn and shaded terrace. Stone, timber and red plaster continue the material language across the lower level.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/twin-prow-duplex/view4-480.avif",
+            "bytes": 24733
+          },
+          {
+            "width": 960,
+            "src": "assets/twin-prow-duplex/view4-960.avif",
+            "bytes": 89188
+          },
+          {
+            "width": 1536,
+            "src": "assets/twin-prow-duplex/view4-1536.avif",
+            "bytes": 205598
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/twin-prow-duplex/view4-960.webp",
+            "bytes": 147708
+          },
+          {
+            "width": 1536,
+            "src": "assets/twin-prow-duplex/view4-1536.webp",
+            "bytes": 343968
+          }
+        ],
+        "src": "assets/twin-prow-duplex/view4-1536.webp"
+      },
+      {
+        "id": "sketch",
+        "title": "Sectional perspective",
+        "caption": "A charcoal and graphite perspective study of Twin Prow Duplex. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "alt": "A charcoal and graphite perspective study of Twin Prow Duplex. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "width": 2382,
+        "height": 1684,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/twin-prow-duplex/sketch-480.webp",
+            "bytes": 28736
+          },
+          {
+            "width": 960,
+            "src": "assets/twin-prow-duplex/sketch-960.webp",
+            "bytes": 105152
+          },
+          {
+            "width": 1800,
+            "src": "assets/twin-prow-duplex/sketch-1800.webp",
+            "bytes": 320128
+          }
+        ],
+        "src": "assets/twin-prow-duplex/sketch-1800.webp"
+      },
+      {
+        "id": "plan",
+        "title": "General arrangement",
+        "caption": "The concept drawing sheet for Twin Prow Duplex, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "alt": "The concept drawing sheet for Twin Prow Duplex, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "width": 1800,
+        "height": 1274,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/twin-prow-duplex/plan-480.webp",
+            "bytes": 9282
+          },
+          {
+            "width": 960,
+            "src": "assets/twin-prow-duplex/plan-960.webp",
+            "bytes": 27052
+          },
+          {
+            "width": 1800,
+            "src": "assets/twin-prow-duplex/plan-1800.webp",
+            "bytes": 67808
+          }
+        ],
+        "src": "assets/twin-prow-duplex/plan-1800.webp"
+      }
+    ],
+    "downloads": {
+      "blueprint": "assets/twin-prow-duplex/blueprint.pdf"
+    }
+  },
+  {
+    "id": "12",
+    "slug": "lagoon-arc-hotel",
+    "name": "Lagoon Arc Hotel",
+    "category": "Hotel",
+    "place": "Saadiyat Island, Abu Dhabi, United Arab Emirates",
+    "programme": "Coastal resort hotel",
+    "description": "Two occupied flanks rise into an upper bridge. The empty oval between them frames the open Gulf from the entrance. A champagne-coloured screen with palm-vein perforations gives shade to the guestrooms while preserving the continuous ring.",
+    "reference": "Museum of the Future and Dubai Frame",
+    "dimensions": "80 × 52 m; five principal levels; 28 m crest.",
+    "arrival": "One side of the oval contains guestrooms; the opposite side holds dining and shared lounges. The upper bridge joins them over the sea-facing opening. Service circulation follows the landward spine.",
+    "structure": "Two thick occupied flanks carry a high bridge above the sea portal. Floors continue around the opening while the champagne skin makes the overall loop legible from the beach. The date-palm perforation is a separate outer screen.",
+    "palette": "Brushed champagne metal, warm limestone, date-palm woven panels, ink-green mohair and travertine with small open pits. A radial lobby settee follows the portal; guest beds use woven headboards with bronze pins.",
+    "furniture": "A radial settee changes from limestone base to ink-green mohair at hand height. Palm-frond panels are fixed to removable frames; bronze pins repeat at a consistent spacing on the guest headboards.",
+    "climate": "Study salt, wind and reflected glare; separate beach-level routes from service access. Test the upper bridge movement and the shading of guestrooms along the curve.",
+    "images": [
+      {
+        "id": "view1",
+        "title": "The sea within the frame",
+        "caption": "A champagne-coloured inhabited ring frames the Gulf through an open oval. Water and dune planting extend the resort setting around its base.",
+        "alt": "A champagne-coloured inhabited ring frames the Gulf through an open oval. Water and dune planting extend the resort setting around its base.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/lagoon-arc-hotel/view1-480.avif",
+            "bytes": 20687
+          },
+          {
+            "width": 960,
+            "src": "assets/lagoon-arc-hotel/view1-960.avif",
+            "bytes": 81393
+          },
+          {
+            "width": 1536,
+            "src": "assets/lagoon-arc-hotel/view1-1536.avif",
+            "bytes": 189857
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/lagoon-arc-hotel/view1-960.webp",
+            "bytes": 126144
+          },
+          {
+            "width": 1536,
+            "src": "assets/lagoon-arc-hotel/view1-1536.webp",
+            "bytes": 307318
+          }
+        ],
+        "src": "assets/lagoon-arc-hotel/view1-1536.webp"
+      },
+      {
+        "id": "view2",
+        "title": "Passage under the bridge",
+        "caption": "The arrival route passes beneath the upper bridge toward the sea. Palm-vein perforations cast a moving pattern across the curved metal skin.",
+        "alt": "The arrival route passes beneath the upper bridge toward the sea. Palm-vein perforations cast a moving pattern across the curved metal skin.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/lagoon-arc-hotel/view2-480.avif",
+            "bytes": 28904
+          },
+          {
+            "width": 960,
+            "src": "assets/lagoon-arc-hotel/view2-960.avif",
+            "bytes": 102865
+          },
+          {
+            "width": 1536,
+            "src": "assets/lagoon-arc-hotel/view2-1536.avif",
+            "bytes": 225149
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/lagoon-arc-hotel/view2-960.webp",
+            "bytes": 166878
+          },
+          {
+            "width": 1536,
+            "src": "assets/lagoon-arc-hotel/view2-1536.webp",
+            "bytes": 376670
+          }
+        ],
+        "src": "assets/lagoon-arc-hotel/view2-1536.webp"
+      },
+      {
+        "id": "view3",
+        "title": "Portal lounge",
+        "caption": "Ink-green seating follows the edge of the portal lounge. Filtered light crosses limestone and pale travertine, with the Gulf visible beyond the oval opening.",
+        "alt": "Ink-green seating follows the edge of the portal lounge. Filtered light crosses limestone and pale travertine, with the Gulf visible beyond the oval opening.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/lagoon-arc-hotel/view3-480.avif",
+            "bytes": 25018
+          },
+          {
+            "width": 960,
+            "src": "assets/lagoon-arc-hotel/view3-960.avif",
+            "bytes": 96080
+          },
+          {
+            "width": 1536,
+            "src": "assets/lagoon-arc-hotel/view3-1536.avif",
+            "bytes": 225820
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/lagoon-arc-hotel/view3-960.webp",
+            "bytes": 157700
+          },
+          {
+            "width": 1536,
+            "src": "assets/lagoon-arc-hotel/view3-1536.webp",
+            "bytes": 384024
+          }
+        ],
+        "src": "assets/lagoon-arc-hotel/view3-1536.webp"
+      },
+      {
+        "id": "view4",
+        "title": "Bridge guest suite",
+        "caption": "A guest suite looks through the curved outer frame toward the sea. Woven headboards, bronze details and warm stone keep the interior tactile and quiet.",
+        "alt": "A guest suite looks through the curved outer frame toward the sea. Woven headboards, bronze details and warm stone keep the interior tactile and quiet.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/lagoon-arc-hotel/view4-480.avif",
+            "bytes": 18843
+          },
+          {
+            "width": 960,
+            "src": "assets/lagoon-arc-hotel/view4-960.avif",
+            "bytes": 70659
+          },
+          {
+            "width": 1536,
+            "src": "assets/lagoon-arc-hotel/view4-1536.avif",
+            "bytes": 171874
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/lagoon-arc-hotel/view4-960.webp",
+            "bytes": 114360
+          },
+          {
+            "width": 1536,
+            "src": "assets/lagoon-arc-hotel/view4-1536.webp",
+            "bytes": 283108
+          }
+        ],
+        "src": "assets/lagoon-arc-hotel/view4-1536.webp"
+      },
+      {
+        "id": "sketch",
+        "title": "Sectional perspective",
+        "caption": "A charcoal and graphite perspective study of Lagoon Arc Hotel. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "alt": "A charcoal and graphite perspective study of Lagoon Arc Hotel. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "width": 2382,
+        "height": 1684,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/lagoon-arc-hotel/sketch-480.webp",
+            "bytes": 25356
+          },
+          {
+            "width": 960,
+            "src": "assets/lagoon-arc-hotel/sketch-960.webp",
+            "bytes": 98338
+          },
+          {
+            "width": 1800,
+            "src": "assets/lagoon-arc-hotel/sketch-1800.webp",
+            "bytes": 311596
+          }
+        ],
+        "src": "assets/lagoon-arc-hotel/sketch-1800.webp"
+      },
+      {
+        "id": "plan",
+        "title": "General arrangement",
+        "caption": "The concept drawing sheet for Lagoon Arc Hotel, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "alt": "The concept drawing sheet for Lagoon Arc Hotel, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "width": 1800,
+        "height": 1274,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/lagoon-arc-hotel/plan-480.webp",
+            "bytes": 13938
+          },
+          {
+            "width": 960,
+            "src": "assets/lagoon-arc-hotel/plan-960.webp",
+            "bytes": 43888
+          },
+          {
+            "width": 1800,
+            "src": "assets/lagoon-arc-hotel/plan-1800.webp",
+            "bytes": 117962
+          }
+        ],
+        "src": "assets/lagoon-arc-hotel/plan-1800.webp"
+      }
+    ],
+    "downloads": {
+      "blueprint": "assets/lagoon-arc-hotel/blueprint.pdf"
+    }
+  },
+  {
+    "id": "13",
+    "slug": "river-confluence-hotel",
+    "name": "River Confluence Hotel",
+    "category": "Hotel",
+    "place": "Kallang Basin, Singapore",
+    "programme": "Waterfront city hotel",
+    "description": "Two unequal towers share a three-level waterfront podium. The podium’s diamond panels open gradually into the tower glazing. At ground level a split river stair brings guests to the shared lobby, where each wing has its own lift bank.",
+    "reference": "Nanjing International Youth Cultural Centre",
+    "dimensions": "66 × 46 m podium; river wing 18 floors / 72 m; city wing 26 floors / 104 m.",
+    "arrival": "The river stair leads into a shared lobby. Each accommodation wing has its own lift bank. Service kitchens and laundry enter through the city side of the podium.",
+    "structure": "The three-level podium gathers both hotel cores and a public waterfront stair. Diamond fibre-concrete panels open progressively into glazing at the two tower bases. The taller city wing continues above the river wing.",
+    "palette": "Silver-grey diamond GFRC, dark grey limestone, stitched pandan-weave panels and oxblood lacquer. Over the lobby bar a pale ribbed metal canopy narrows like the podium's glazed throat; bedrooms use ventilated woven panels and oval reading lamps.",
+    "furniture": "Pandan-weave wall panels sit in removable cassettes behind the oxblood reception seating. The faceted canopy over the bar borrows the podium joint spacing at a smaller scale.",
+    "climate": "Test wind-driven rain at the glazed throat. Keep receiving and linen routes on the city edge, and separate the two guest lift groups through the public base.",
+    "images": [
+      {
+        "id": "view1",
+        "title": "Two towers, one riverfront",
+        "caption": "Two unequal towers rise from a fluid shared podium on Kallang Basin. The waterfront reflection draws the taller and shorter wings into one silhouette.",
+        "alt": "Two unequal towers rise from a fluid shared podium on Kallang Basin. The waterfront reflection draws the taller and shorter wings into one silhouette.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/river-confluence-hotel/view1-480.avif",
+            "bytes": 24670
+          },
+          {
+            "width": 960,
+            "src": "assets/river-confluence-hotel/view1-960.avif",
+            "bytes": 88674
+          },
+          {
+            "width": 1536,
+            "src": "assets/river-confluence-hotel/view1-1536.avif",
+            "bytes": 200533
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/river-confluence-hotel/view1-960.webp",
+            "bytes": 140686
+          },
+          {
+            "width": 1536,
+            "src": "assets/river-confluence-hotel/view1-1536.webp",
+            "bytes": 323212
+          }
+        ],
+        "src": "assets/river-confluence-hotel/view1-1536.webp"
+      },
+      {
+        "id": "view2",
+        "title": "Waterfront stair and entrance",
+        "caption": "A broad split stair leads from the waterfront toward the common lobby. Diamond panels gradually open into glazing where the towers meet the podium.",
+        "alt": "A broad split stair leads from the waterfront toward the common lobby. Diamond panels gradually open into glazing where the towers meet the podium.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/river-confluence-hotel/view2-480.avif",
+            "bytes": 28377
+          },
+          {
+            "width": 960,
+            "src": "assets/river-confluence-hotel/view2-960.avif",
+            "bytes": 102379
+          },
+          {
+            "width": 1536,
+            "src": "assets/river-confluence-hotel/view2-1536.avif",
+            "bytes": 228952
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/river-confluence-hotel/view2-960.webp",
+            "bytes": 161182
+          },
+          {
+            "width": 1536,
+            "src": "assets/river-confluence-hotel/view2-1536.webp",
+            "bytes": 376416
+          }
+        ],
+        "src": "assets/river-confluence-hotel/view2-1536.webp"
+      },
+      {
+        "id": "view3",
+        "title": "Podium lobby",
+        "caption": "A ribbed canopy follows the long podium lobby above oxblood seating and a curved bar. Tall glazing brings tropical planting and river light into the room.",
+        "alt": "A ribbed canopy follows the long podium lobby above oxblood seating and a curved bar. Tall glazing brings tropical planting and river light into the room.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/river-confluence-hotel/view3-480.avif",
+            "bytes": 28828
+          },
+          {
+            "width": 960,
+            "src": "assets/river-confluence-hotel/view3-960.avif",
+            "bytes": 105025
+          },
+          {
+            "width": 1536,
+            "src": "assets/river-confluence-hotel/view3-1536.avif",
+            "bytes": 237016
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/river-confluence-hotel/view3-960.webp",
+            "bytes": 183524
+          },
+          {
+            "width": 1536,
+            "src": "assets/river-confluence-hotel/view3-1536.webp",
+            "bytes": 414946
+          }
+        ],
+        "src": "assets/river-confluence-hotel/view3-1536.webp"
+      },
+      {
+        "id": "view4",
+        "title": "River-facing guest suite",
+        "caption": "A river-facing guest suite uses woven panels, muted textiles and warm reading lamps. Angled glazing keeps the basin view central to the room.",
+        "alt": "A river-facing guest suite uses woven panels, muted textiles and warm reading lamps. Angled glazing keeps the basin view central to the room.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/river-confluence-hotel/view4-480.avif",
+            "bytes": 20546
+          },
+          {
+            "width": 960,
+            "src": "assets/river-confluence-hotel/view4-960.avif",
+            "bytes": 77555
+          },
+          {
+            "width": 1536,
+            "src": "assets/river-confluence-hotel/view4-1536.avif",
+            "bytes": 189182
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/river-confluence-hotel/view4-960.webp",
+            "bytes": 126132
+          },
+          {
+            "width": 1536,
+            "src": "assets/river-confluence-hotel/view4-1536.webp",
+            "bytes": 319690
+          }
+        ],
+        "src": "assets/river-confluence-hotel/view4-1536.webp"
+      },
+      {
+        "id": "sketch",
+        "title": "Sectional perspective",
+        "caption": "A charcoal and graphite perspective study of River Confluence Hotel. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "alt": "A charcoal and graphite perspective study of River Confluence Hotel. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "width": 2382,
+        "height": 1684,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/river-confluence-hotel/sketch-480.webp",
+            "bytes": 22030
+          },
+          {
+            "width": 960,
+            "src": "assets/river-confluence-hotel/sketch-960.webp",
+            "bytes": 83760
+          },
+          {
+            "width": 1800,
+            "src": "assets/river-confluence-hotel/sketch-1800.webp",
+            "bytes": 267564
+          }
+        ],
+        "src": "assets/river-confluence-hotel/sketch-1800.webp"
+      },
+      {
+        "id": "plan",
+        "title": "General arrangement",
+        "caption": "The concept drawing sheet for River Confluence Hotel, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "alt": "The concept drawing sheet for River Confluence Hotel, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "width": 1800,
+        "height": 1274,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/river-confluence-hotel/plan-480.webp",
+            "bytes": 13702
+          },
+          {
+            "width": 960,
+            "src": "assets/river-confluence-hotel/plan-960.webp",
+            "bytes": 41490
+          },
+          {
+            "width": 1800,
+            "src": "assets/river-confluence-hotel/plan-1800.webp",
+            "bytes": 107396
+          }
+        ],
+        "src": "assets/river-confluence-hotel/plan-1800.webp"
+      }
+    ],
+    "downloads": {
+      "blueprint": "assets/river-confluence-hotel/blueprint.pdf"
+    }
+  },
+  {
+    "id": "14",
+    "slug": "stream-ledge-house",
+    "name": "Stream Ledge House",
+    "category": "House",
+    "place": "Hudson Valley near Woodstock, New York, USA",
+    "programme": "Woodland house and writing room",
+    "description": "A fieldstone chimney anchors two concrete terrace trays above the rocky stream. An entry bridge reaches the stone spine from uphill. The upper writing room looks back through the canopy, while the lower salon follows the water horizontally.",
+    "reference": "Fallingwater",
+    "dimensions": "24 × 17 m; two floors; 8 m upper parapet.",
+    "arrival": "A footbridge reaches the stone spine. The living area turns toward the stream, with two quiet rooms upstairs and a writing ledge over the lower terrace.",
+    "structure": "Stone masonry encloses the core while cantilevered terrace slabs step toward the water. The writing ledge sits above a shorter lower tray. The hearth boulder sets the living-room floor datum.",
+    "palette": "Flagstone floors bend around a hearth boulder. Cherry built-ins follow the slab edges, lichen-green wool covers a window seat, and a shallow aged-copper hearth hood catches reflected water light.",
+    "furniture": "Waxed cherry shelves terminate against the stone with a narrow movement gap. Lichen wool softens the stream-facing window seat while a copper hood reflects light back into the hearth.",
+    "climate": "Confirm flood levels and ecological limits before siting the bridge. Check cantilever deflection, freeze-thaw durability and water shedding at every terrace return.",
+    "images": [
+      {
+        "id": "view1",
+        "title": "Terraces above the stream",
+        "caption": "Concrete terrace trays project from a fieldstone spine above a rocky woodland stream. The layered horizontal edges sit within the surrounding canopy.",
+        "alt": "Concrete terrace trays project from a fieldstone spine above a rocky woodland stream. The layered horizontal edges sit within the surrounding canopy.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/stream-ledge-house/view1-480.avif",
+            "bytes": 35494
+          },
+          {
+            "width": 960,
+            "src": "assets/stream-ledge-house/view1-960.avif",
+            "bytes": 142347
+          },
+          {
+            "width": 1536,
+            "src": "assets/stream-ledge-house/view1-1536.avif",
+            "bytes": 322851
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/stream-ledge-house/view1-960.webp",
+            "bytes": 235446
+          },
+          {
+            "width": 1536,
+            "src": "assets/stream-ledge-house/view1-1536.webp",
+            "bytes": 564598
+          }
+        ],
+        "src": "assets/stream-ledge-house/view1-1536.webp"
+      },
+      {
+        "id": "view2",
+        "title": "Arrival footbridge",
+        "caption": "A narrow footbridge reaches the house from uphill beside the stone chimney. The approach passes the lower salon before opening onto the stream-facing terrace.",
+        "alt": "A narrow footbridge reaches the house from uphill beside the stone chimney. The approach passes the lower salon before opening onto the stream-facing terrace.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/stream-ledge-house/view2-480.avif",
+            "bytes": 34574
+          },
+          {
+            "width": 960,
+            "src": "assets/stream-ledge-house/view2-960.avif",
+            "bytes": 131569
+          },
+          {
+            "width": 1536,
+            "src": "assets/stream-ledge-house/view2-1536.avif",
+            "bytes": 291400
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/stream-ledge-house/view2-960.webp",
+            "bytes": 219274
+          },
+          {
+            "width": 1536,
+            "src": "assets/stream-ledge-house/view2-1536.webp",
+            "bytes": 495226
+          }
+        ],
+        "src": "assets/stream-ledge-house/view2-1536.webp"
+      },
+      {
+        "id": "view3",
+        "title": "Hearth salon",
+        "caption": "The hearth salon combines fieldstone, cherry built-ins and lichen-green seating. Corner glazing frames the stream while warm lamplight gathers around the stone fireplace.",
+        "alt": "The hearth salon combines fieldstone, cherry built-ins and lichen-green seating. Corner glazing frames the stream while warm lamplight gathers around the stone fireplace.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/stream-ledge-house/view3-480.avif",
+            "bytes": 24538
+          },
+          {
+            "width": 960,
+            "src": "assets/stream-ledge-house/view3-960.avif",
+            "bytes": 86591
+          },
+          {
+            "width": 1536,
+            "src": "assets/stream-ledge-house/view3-1536.avif",
+            "bytes": 193441
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/stream-ledge-house/view3-960.webp",
+            "bytes": 143464
+          },
+          {
+            "width": 1536,
+            "src": "assets/stream-ledge-house/view3-1536.webp",
+            "bytes": 321250
+          }
+        ],
+        "src": "assets/stream-ledge-house/view3-1536.webp"
+      },
+      {
+        "id": "view4",
+        "title": "Upper writing room",
+        "caption": "A timber writing ledge runs along the upper window. The tree canopy, stone spine and lower terrace remain visible from the quiet desk position.",
+        "alt": "A timber writing ledge runs along the upper window. The tree canopy, stone spine and lower terrace remain visible from the quiet desk position.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/stream-ledge-house/view4-480.avif",
+            "bytes": 27882
+          },
+          {
+            "width": 960,
+            "src": "assets/stream-ledge-house/view4-960.avif",
+            "bytes": 102669
+          },
+          {
+            "width": 1536,
+            "src": "assets/stream-ledge-house/view4-1536.avif",
+            "bytes": 230824
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/stream-ledge-house/view4-960.webp",
+            "bytes": 174952
+          },
+          {
+            "width": 1536,
+            "src": "assets/stream-ledge-house/view4-1536.webp",
+            "bytes": 397142
+          }
+        ],
+        "src": "assets/stream-ledge-house/view4-1536.webp"
+      },
+      {
+        "id": "sketch",
+        "title": "Sectional perspective",
+        "caption": "A charcoal and graphite perspective study of Stream Ledge House. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "alt": "A charcoal and graphite perspective study of Stream Ledge House. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "width": 2382,
+        "height": 1684,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/stream-ledge-house/sketch-480.webp",
+            "bytes": 32738
+          },
+          {
+            "width": 960,
+            "src": "assets/stream-ledge-house/sketch-960.webp",
+            "bytes": 122434
+          },
+          {
+            "width": 1800,
+            "src": "assets/stream-ledge-house/sketch-1800.webp",
+            "bytes": 361606
+          }
+        ],
+        "src": "assets/stream-ledge-house/sketch-1800.webp"
+      },
+      {
+        "id": "plan",
+        "title": "General arrangement",
+        "caption": "The concept drawing sheet for Stream Ledge House, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "alt": "The concept drawing sheet for Stream Ledge House, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "width": 1800,
+        "height": 1274,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/stream-ledge-house/plan-480.webp",
+            "bytes": 9144
+          },
+          {
+            "width": 960,
+            "src": "assets/stream-ledge-house/plan-960.webp",
+            "bytes": 24070
+          },
+          {
+            "width": 1800,
+            "src": "assets/stream-ledge-house/plan-1800.webp",
+            "bytes": 55516
+          }
+        ],
+        "src": "assets/stream-ledge-house/plan-1800.webp"
+      }
+    ],
+    "downloads": {
+      "blueprint": "assets/stream-ledge-house/blueprint.pdf"
+    }
+  },
+  {
+    "id": "15",
+    "slug": "dune-veil-house",
+    "name": "Dune Veil House",
+    "category": "House",
+    "place": "Comporta, Portugal",
+    "programme": "Single-storey coastal house",
+    "description": "A white shell rises from one side of the dune and lifts along the sea-facing veranda. An off-centre oculus brings a protected garden into the plan. Living spaces line the long glazed lip; bedrooms open from the sheltered landward hall.",
+    "reference": "Heydar Aliyev Center and Shell Villa",
+    "dimensions": "22 × 15 m; one occupied level; 5.5 m roof crest.",
+    "arrival": "A sheltered arrival court separates the bedroom wing from the sea-facing living room. The kitchen and utility open to a service yard on the landward side.",
+    "structure": "The roof lands on one side and lifts to shelter the seaward veranda. A thickened ring around the planted oculus stabilises the opening. Surface water exits through the landward service yard.",
+    "palette": "Cork-faced storage doors, pale sanded ash, sea-green lacquer and slung natural linen. The fixed daybed fits the long crescent window; small bronze pulls are recessed into the cork. Lime floors are softly burnished.",
+    "furniture": "Cork cabinet doors have recessed bronze pulls; a ventilated plinth holds them above the floor. A fixed ash daybed follows the crescent window, leaving the planted court as the room’s centre.",
+    "climate": "Monitor sand drift and salt exposure at the low edge. Size the court drain and overflow independently and keep both reachable from the garden path.",
+    "images": [
+      {
+        "id": "view1",
+        "title": "A shell in the dunes",
+        "caption": "A low white shell rises from dune planting around a sheltered central opening. The sea-facing glazed crescent follows its lifted edge.",
+        "alt": "A low white shell rises from dune planting around a sheltered central opening. The sea-facing glazed crescent follows its lifted edge.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/dune-veil-house/view1-480.avif",
+            "bytes": 28168
+          },
+          {
+            "width": 960,
+            "src": "assets/dune-veil-house/view1-960.avif",
+            "bytes": 104851
+          },
+          {
+            "width": 1536,
+            "src": "assets/dune-veil-house/view1-1536.avif",
+            "bytes": 239599
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/dune-veil-house/view1-960.webp",
+            "bytes": 169610
+          },
+          {
+            "width": 1536,
+            "src": "assets/dune-veil-house/view1-1536.webp",
+            "bytes": 396886
+          }
+        ],
+        "src": "assets/dune-veil-house/view1-1536.webp"
+      },
+      {
+        "id": "view2",
+        "title": "Planted roof opening",
+        "caption": "An opening in the shell frames a planted court and outdoor table. The curved return shelters the threshold as warm light falls across the roof.",
+        "alt": "An opening in the shell frames a planted court and outdoor table. The curved return shelters the threshold as warm light falls across the roof.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/dune-veil-house/view2-480.avif",
+            "bytes": 23630
+          },
+          {
+            "width": 960,
+            "src": "assets/dune-veil-house/view2-960.avif",
+            "bytes": 86483
+          },
+          {
+            "width": 1536,
+            "src": "assets/dune-veil-house/view2-1536.avif",
+            "bytes": 197151
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/dune-veil-house/view2-960.webp",
+            "bytes": 138186
+          },
+          {
+            "width": 1536,
+            "src": "assets/dune-veil-house/view2-1536.webp",
+            "bytes": 323690
+          }
+        ],
+        "src": "assets/dune-veil-house/view2-1536.webp"
+      },
+      {
+        "id": "view3",
+        "title": "Crescent living room",
+        "caption": "The living room wraps a planted oculus with low linen seating and sea-green cabinetry. Pale timber and burnished floors keep the interior close to the dune palette.",
+        "alt": "The living room wraps a planted oculus with low linen seating and sea-green cabinetry. Pale timber and burnished floors keep the interior close to the dune palette.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/dune-veil-house/view3-480.avif",
+            "bytes": 20482
+          },
+          {
+            "width": 960,
+            "src": "assets/dune-veil-house/view3-960.avif",
+            "bytes": 77230
+          },
+          {
+            "width": 1536,
+            "src": "assets/dune-veil-house/view3-1536.avif",
+            "bytes": 182355
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/dune-veil-house/view3-960.webp",
+            "bytes": 123602
+          },
+          {
+            "width": 1536,
+            "src": "assets/dune-veil-house/view3-1536.webp",
+            "bytes": 298920
+          }
+        ],
+        "src": "assets/dune-veil-house/view3-1536.webp"
+      },
+      {
+        "id": "view4",
+        "title": "Sheltered veranda",
+        "caption": "A shaded veranda sits beneath the lifted roof edge. The long glass crescent connects dining, living and the surrounding coastal garden.",
+        "alt": "A shaded veranda sits beneath the lifted roof edge. The long glass crescent connects dining, living and the surrounding coastal garden.",
+        "width": 1536,
+        "height": 1024,
+        "sizes": [
+          480,
+          960,
+          1536
+        ],
+        "avif": [
+          {
+            "width": 480,
+            "src": "assets/dune-veil-house/view4-480.avif",
+            "bytes": 18871
+          },
+          {
+            "width": 960,
+            "src": "assets/dune-veil-house/view4-960.avif",
+            "bytes": 60485
+          },
+          {
+            "width": 1536,
+            "src": "assets/dune-veil-house/view4-1536.avif",
+            "bytes": 135798
+          }
+        ],
+        "webp": [
+          {
+            "width": 960,
+            "src": "assets/dune-veil-house/view4-960.webp",
+            "bytes": 97138
+          },
+          {
+            "width": 1536,
+            "src": "assets/dune-veil-house/view4-1536.webp",
+            "bytes": 219154
+          }
+        ],
+        "src": "assets/dune-veil-house/view4-1536.webp"
+      },
+      {
+        "id": "sketch",
+        "title": "Sectional perspective",
+        "caption": "A charcoal and graphite perspective study of Dune Veil House. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "alt": "A charcoal and graphite perspective study of Dune Veil House. The cutaway traces the relationship between the outer form, occupied rooms and circulation.",
+        "width": 2382,
+        "height": 1684,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/dune-veil-house/sketch-480.webp",
+            "bytes": 27714
+          },
+          {
+            "width": 960,
+            "src": "assets/dune-veil-house/sketch-960.webp",
+            "bytes": 104596
+          },
+          {
+            "width": 1800,
+            "src": "assets/dune-veil-house/sketch-1800.webp",
+            "bytes": 319408
+          }
+        ],
+        "src": "assets/dune-veil-house/sketch-1800.webp"
+      },
+      {
+        "id": "plan",
+        "title": "General arrangement",
+        "caption": "The concept drawing sheet for Dune Veil House, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "alt": "The concept drawing sheet for Dune Veil House, bringing floor layouts, site approach, section, elevation and an envelope detail together. Open the vector PDF to read the full drawing at print resolution.",
+        "width": 1800,
+        "height": 1274,
+        "sizes": [
+          480,
+          960,
+          1800
+        ],
+        "avif": [],
+        "webp": [
+          {
+            "width": 480,
+            "src": "assets/dune-veil-house/plan-480.webp",
+            "bytes": 9348
+          },
+          {
+            "width": 960,
+            "src": "assets/dune-veil-house/plan-960.webp",
+            "bytes": 27090
+          },
+          {
+            "width": 1800,
+            "src": "assets/dune-veil-house/plan-1800.webp",
+            "bytes": 69180
+          }
+        ],
+        "src": "assets/dune-veil-house/plan-1800.webp"
+      }
+    ],
+    "downloads": {
+      "blueprint": "assets/dune-veil-house/blueprint.pdf"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "width": 1100,
+  "height": 1375,
+  "avif": [
+    {
+      "width": 480,
+      "src": "assets/portrait/michael-odedipe-480.avif",
+      "bytes": 27104
+    },
+    {
+      "width": 960,
+      "src": "assets/portrait/michael-odedipe-960.avif",
+      "bytes": 75955
+    },
+    {
+      "width": 1100,
+      "src": "assets/portrait/michael-odedipe-1100.avif",
+      "bytes": 92331
+    }
+  ],
+  "webp": [
+    {
+      "width": 960,
+      "src": "assets/portrait/michael-odedipe-960.webp",
+      "bytes": 104298
+    },
+    {
+      "width": 1100,
+      "src": "assets/portrait/michael-odedipe-1100.webp",
+      "bytes": 126652
+    }
+  ],
+  "sizes": [
+    480,
+    960,
+    1100
+  ],
+  "src": "assets/portrait/michael-odedipe-1100.webp"
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tradinggodmind.github.io/odedipe-architecture/sitemap.xml
