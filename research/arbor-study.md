@@ -10,7 +10,7 @@ Arbor presents one property development with several purchase paths. Its first j
 
 The observed desktop hero fills the viewport with a near-frontal architectural scene. A fine, high-contrast serif wordmark occupies much of the lower frame. The lower image is darkened, preserving readable light lettering without placing it on an opaque card. A narrow floating navigation capsule sits near the top centre, leaving the corners and the building's silhouette open.
 
-The opening sequence initially showed a cream loading field, a gold symbol, a fine progress rule and a numeric percentage. The browser then revealed the image and title. This makes loading part of the identity. It also delays access to the work, and therefore is not carried into Michael's site. A visitor to a visualiser's portfolio should reach a recognisable image immediately.
+The opening sequence initially showed a cream loading field, a gold symbol, a fine progress rule and a numeric percentage. The browser then revealed the image and title. This makes loading part of the identity. The initial portfolio omitted it to prioritise immediate image access. On 8 November 2026 the owner requested the loading sequence; the site now adapts its cream/gold composition using the O/M identity and a bounded wait for the opening image and fonts.
 
 At the observed 1363px browser width, the hero H1 computed to about143px with equal line height. Major section type computed to about53px with58px leading. The menu label was about13px. These are responsive computed values, not fixed universal specifications. The large difference between display type and small controls creates hierarchy without many font weights.
 

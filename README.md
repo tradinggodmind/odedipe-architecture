@@ -18,13 +18,13 @@ python3 tools/build.py
 python3 tools/check.py
 ```
 
-Layouts and behavior live in `style.css` and `app.js`. Commit the generated HTML alongside the source files. GitHub Pages serves the `main` branch from the repository root; `.nojekyll` preserves the static export.
+Layouts and behavior live in `style.css`, `app.js` and `loader.js`. Commit the generated HTML alongside the source files. GitHub Pages serves the `main` branch from the repository root; `.nojekyll` preserves the static export.
 
 ## Design and delivery
 
 The reference studies in `research/` document Belgrade Arbor, BCG Building Design and SANTAL. The portfolio applies their image-led composition, editorial pacing and grid discipline to an original design. Proprietary reference-site source and assets are excluded.
 
-The site uses responsive AVIF photography with WebP fallbacks, eager loading for the hero, native lazy loading below the fold, intrinsic image dimensions, self-hosted WOFF2 fonts and reduced-motion support. JavaScript handles the navigation dialog, project filters and keyboard-accessible image gallery. There are no runtime libraries, trackers, WebGL scenes or video backgrounds.
+The site uses responsive AVIF photography with WebP fallbacks, eager loading for the hero, native lazy loading below the fold, intrinsic image dimensions, self-hosted WOFF2 fonts and reduced-motion support. JavaScript handles the entry screen, navigation dialog, project filters and keyboard-accessible image gallery. The entry screen uses the opening image and fonts as readiness signals, skips internal project navigation, respects reduced motion and has a bounded fallback. The portrait/about section is omitted. There are no runtime libraries, trackers, WebGL scenes or video backgrounds.
 
 ## Project status and rights
 

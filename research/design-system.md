@@ -4,7 +4,7 @@
 
 The portfolio is an architectural publication with a personal point of view. A single complete image establishes presence. A compact identity and a large serif statement introduce the author. The work then opens into a numbered, asymmetrical collection with enough context to make each image meaningful. Its intended response is confidence in Michael's visual judgment, followed by a project enquiry.
 
-The website presents conceptual work honestly. It does not invent built commissions, clients, awards, staff, an office address, engineering credentials or testimonials. The contact destination is the supplied professional email. The supplied portrait is preserved.
+The website presents conceptual work honestly. It does not invent built commissions, clients, awards, staff, an office address, engineering credentials or testimonials. The contact destination is the supplied professional email. The portrait/about section was removed at the owner’s request on 8 November 2026; the primary navigation now contains Work, Approach and Contact.
 
 ## Reference synthesis
 
@@ -25,7 +25,7 @@ Instrument Serif supplies display headlines and occasional italic emphasis. Work
 
 Desktop margins grow from22px to72px. The index uses twelve columns with alternating7/5 and5/7 project spans. Portrait tower images retain a tall presentation. On mobile the cards stack, the header becomes compact, the hero typography reflows, and case-study metadata becomes a readable sequence. Fine type supports the work rather than competing with it.
 
-The full-screen hero uses the Cala Shell exterior. This image has both a recognisable architectural silhouette and a real-world landscape. Its caption identifies the project and proposed setting. A later full-width foyer image changes the rhythm from exterior collection to interior atmosphere before the process and personal introduction.
+The full-screen hero uses the Cala Shell exterior. This image has both a recognisable architectural silhouette and a real-world landscape. Its caption identifies the project and proposed setting. A later full-width foyer image changes the rhythm from exterior collection to interior atmosphere before the process section and direct contact.
 
 ## Project content model
 
@@ -37,9 +37,9 @@ The index is curated for visual rhythm, while the original project numbers remai
 
 ## Motion and loading
 
-The website uses native scrolling. One-time below-fold reveals use IntersectionObserver with opacity and a small26px translation. Hover zoom is restrained. The hero has a short arrival treatment. There are no blocking preloaders, continuous pointer trails, autoplay videos or WebGL scenes. Reduced-motion preferences disable animation and smooth scrolling.
+The website uses native scrolling. One-time below-fold reveals use IntersectionObserver with opacity and a small26px translation. Hover zoom is restrained. The hero has a short arrival treatment. At the owner’s request on 8 November 2026, a Belgrade Arbor-inspired entry screen was added: a cream field, gold O/M identity, thin progress rule and serif percentage. The screen waits for the opening image and the display/UI fonts, then lifts away. It runs on a fresh entry or full reload and is skipped during internal project navigation. It never waits for lazy-loaded imagery. Asset failures settle normally; a six-second loading deadline and an independent head-script timeout prevent an indefinite cover. With JavaScript disabled, the cover remains hidden and the content stays readable. Reduced-motion preferences remove the minimum display duration and transition. There are no continuous pointer trails, autoplay videos or WebGL scenes.
 
-The portfolio is static HTML, CSS and a small dependency-free interaction script. Each project page is directly addressable on GitHub Pages and works with normal document navigation. The core content is readable without JavaScript. JavaScript adds filtering, menu and enlarged viewing.
+The portfolio is static HTML, CSS and a small dependency-free interaction script. Each project page is directly addressable on GitHub Pages and works with normal document navigation. The core content is readable without JavaScript. JavaScript adds the entry sequence, filtering, menu and enlarged viewing.
 
 ## Image strategy
 

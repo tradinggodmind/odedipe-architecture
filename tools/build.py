@@ -9,9 +9,36 @@ import json, html, re
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT
 PROJECTS = json.loads((ROOT / 'content/projects.json').read_text())
-PORTRAIT = json.loads((ROOT / 'content/portrait.json').read_text())
 EMAIL = 'odedipeoluwafemi@gmail.com'
 BASE_URL = 'https://tradinggodmind.github.io/odedipe-architecture/'
+ASSET_VERSION = '20261108'
+
+# Run before the stylesheet so an external entry never flashes the page first.
+# Internal project navigation stays immediate; a full reload replays the intro.
+LOADER_BOOT = """(function () {
+  var root = document.documentElement;
+  var internal = false;
+  try {
+    var base = new URL(document.currentScript.getAttribute('data-site-root'), location.href);
+    var previous = new URL(document.referrer);
+    internal = previous.origin === base.origin && previous.pathname.indexOf(base.pathname) === 0;
+  } catch (error) {}
+  var navigation = performance.getEntriesByType && performance.getEntriesByType('navigation')[0];
+  if (!internal || (navigation && navigation.type === 'reload')) {
+    root.classList.add('is-loading');
+    root.dataset.loaderStarted = String(performance.now());
+    window.setTimeout(function () {
+      root.classList.remove('is-loading', 'is-opening');
+      delete root.dataset.loaderStarted;
+    }, 7500);
+  }
+}());"""
+
+def loader():
+    return '''<div class="site-loader" id="site-loader" role="status" aria-label="Loading portfolio">
+<div class="loader-content"><span class="loader-monogram" aria-hidden="true">O/M</span>
+<div class="loader-track" role="progressbar" aria-label="Preparing the portfolio" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><span class="loader-bar"></span></div>
+<p class="loader-percent" aria-hidden="true"><span data-loader-count>0</span>%</p></div></div>'''
 
 def esc(s): return html.escape(str(s), quote=True)
 
@@ -34,11 +61,12 @@ def head(title, description, prefix='', canonical='', image_path='assets/cala-sh
     return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(title)}</title><meta name="description" content="{esc(description)}"><meta name="theme-color" content="#293028">
 <link rel="canonical" href="{BASE_URL}{canonical}"><meta property="og:type" content="website"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(description)}"><meta property="og:url" content="{BASE_URL}{canonical}"><meta property="og:image" content="{BASE_URL}{image_path}"><meta name="twitter:card" content="summary_large_image">
-<link rel="icon" type="image/svg+xml" href="{prefix}assets/mark.svg"><link rel="preload" href="{prefix}assets/fonts/instrument-serif.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="{prefix}style.css"><script defer src="{prefix}app.js"></script></head><body id="top"><a class="skip" href="#main">Skip to content</a>'''
+<script data-site-root="{prefix or './'}">{LOADER_BOOT}</script>
+<link rel="icon" type="image/svg+xml" href="{prefix}assets/mark.svg"><link rel="preload" href="{prefix}assets/fonts/instrument-serif.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="{prefix}style.css?v={ASSET_VERSION}"><script defer src="{prefix}loader.js?v={ASSET_VERSION}"></script><script defer src="{prefix}app.js?v={ASSET_VERSION}"></script></head><body id="top">{loader()}<a class="skip" href="#main">Skip to content</a>'''
 
 def header(prefix='', inner=False):
     return f'''<header class="site-header {'inner-header' if inner else ''}"><a class="brand" href="{prefix}index.html" aria-label="Odedipe Michael, home"><span class="brand-mark" aria-hidden="true">O/M</span><span class="brand-name">Odedipe<br>Michael</span></a><span class="header-role">Architectural visualisation<br>Form / Light / Atmosphere</span><div class="header-actions"><a class="enquire" href="mailto:{EMAIL}">Start a conversation ↗</a><button class="menu-toggle" aria-expanded="false" aria-controls="navigation"><span>Index</span><span class="menu-lines" aria-hidden="true"><i></i><i></i></span></button></div></header>
-<dialog class="menu-panel" id="navigation" aria-label="Site navigation"><div class="menu-top"><a class="brand" href="{prefix}index.html"><span class="brand-mark">O/M</span><span class="brand-name">Odedipe<br>Michael</span></a><button class="menu-close" aria-label="Close navigation">Close &nbsp; ×</button></div><div class="menu-content"><nav class="menu-links" aria-label="Main navigation"><a href="{prefix}index.html#work"><span>01</span>Selected work</a><a href="{prefix}index.html#approach"><span>02</span>Approach</a><a href="{prefix}index.html#about"><span>03</span>About Michael</a><a href="{prefix}index.html#contact"><span>04</span>Get in touch</a></nav><div class="menu-note"><p>Architecture begins as an idea.<br>I give it light, material and presence.</p><a class="text-link" href="mailto:{EMAIL}">Discuss your project <span class="arrow">↗</span></a></div></div><div class="menu-bottom"><span>Architectural visualisation / Nigeria</span><span>15 concept studies · 2026</span></div></dialog>'''
+<dialog class="menu-panel" id="navigation" aria-label="Site navigation"><div class="menu-top"><a class="brand" href="{prefix}index.html"><span class="brand-mark">O/M</span><span class="brand-name">Odedipe<br>Michael</span></a><button class="menu-close" aria-label="Close navigation">Close &nbsp; ×</button></div><div class="menu-content"><nav class="menu-links" aria-label="Main navigation"><a href="{prefix}index.html#work"><span>01</span>Selected work</a><a href="{prefix}index.html#approach"><span>02</span>Approach</a><a href="{prefix}index.html#contact"><span>03</span>Get in touch</a></nav><div class="menu-note"><p>Architecture begins as an idea.<br>I give it light, material and presence.</p><a class="text-link" href="mailto:{EMAIL}">Discuss your project <span class="arrow">↗</span></a></div></div><div class="menu-bottom"><span>Architectural visualisation / Nigeria</span><span>15 concept studies · 2026</span></div></dialog>'''
 
 def footer(prefix=''):
     return f'''<footer class="contact" id="contact"><div class="contact-top"><span class="label">A new perspective starts here</span><p>Have an architectural idea in mind?<br>Let’s find the image that makes it real.</p></div><a class="contact-title" href="mailto:{EMAIL}">Let’s make it <em>felt.</em> <span aria-hidden="true">↗</span></a><div class="contact-bottom"><a class="contact-email" href="mailto:{EMAIL}">{EMAIL}</a><a class="back-top" href="#top">Back to the top ↑</a></div><div class="legal"><p>© 2026 Odedipe Michael. Portfolio images are conceptual visualisations in proposed real-world settings. The projects shown are unbuilt studies.</p><a href="{prefix}index.html#work">Explore all 15 projects ↗</a></div></footer>'''
@@ -69,11 +97,11 @@ def home():
         if count:filters+=f'<button class="filter" data-filter="{c}" aria-pressed="false">{c} <sup>{count:02}</sup></button>'
     body=head('Odedipe Michael — Architectural Visualiser','An independent eye for architecture. Explore fifteen concept projects through exterior and interior visualisations, charcoal perspectives and drawing studies.')+header()
     body+=f'''<main id="main"><section class="hero" aria-label="Featured project, Cala Shell Residence"><div class="hero-visual">{picture(hero['images'][0],sizes='(max-width:600px) 1300px, 100vw',eager=True)}</div><p class="hero-kicker label">An independent eye<br>for extraordinary spaces.</p><h1 class="hero-title">Unbuilt.<em>Unforgettable.</em></h1><div class="hero-bottom"><div class="hero-project"><span class="number">07</span><div><strong>Cala Shell Residence</strong><span>Luštica Peninsula, Montenegro · Exterior study</span></div></div><a class="hero-scroll" href="#work">Discover the work<span aria-hidden="true">↓</span></a><a href="projects/cala-shell-residence/">Explore the project &nbsp; ↗</a></div></section>
-<section class="section intro" aria-labelledby="intro-title"><span class="label">A practice in seeing<br>01 / Perspective</span><div><h2 id="intro-title">I turn architectural ideas into images that feel <em>inhabited, tangible,</em> and impossible to pass by.</h2><div class="intro-bottom"><p>I’m Odedipe Michael, an architectural visualiser. My work explores the moment when form, material and light become a place you can imagine yourself in.</p><a class="text-link" href="#about">The eye behind the image <span class="arrow">↗</span></a></div></div></section>
+<section class="section intro" aria-labelledby="intro-title"><span class="label">A practice in seeing<br>01 / Perspective</span><div><h2 id="intro-title">I turn architectural ideas into images that feel <em>inhabited, tangible,</em> and impossible to pass by.</h2><div class="intro-bottom"><p>I’m Odedipe Michael, an architectural visualiser. My work explores the moment when form, material and light become a place you can imagine yourself in.</p><a class="text-link" href="#work">Explore selected work <span class="arrow">↗</span></a></div></div></section>
 <section class="section work" id="work" aria-labelledby="work-title"><div class="section-heading"><h2 id="work-title">Selected work<span class="count">(15)</span></h2><span class="label">Concept studies<br>2026 collection</span></div><div class="filters" role="group" aria-label="Filter projects by type">{filters}<span class="filter-status" role="status" aria-live="polite">15 projects</span></div><div class="project-grid">{''.join(cards)}</div></section>
 <figure class="interlude"><div class="interlude-image">{picture(intro,sizes='(max-width:600px) 960px, 100vw')}<p class="interlude-title">The quiet<br><em>inside the extraordinary.</em></p></div><figcaption class="interlude-caption"><span>01 / Crescent Current Centre<br>Lake foyer · Interior study</span><p>{esc(intro['caption'])}</p><a href="projects/crescent-current-centre/">View project ↗</a></figcaption></figure>
 <section class="section process" id="approach"><div><span class="label">02 / The approach</span><h2>Every image.<br><em>A deliberate point of view.</em></h2></div><div class="process-list"><div class="process-step"><span class="label">01</span><div><h3>Read the architecture.</h3><p>Find the gesture that defines the project. Understand the approach, the threshold, and the spaces where its character comes into focus.</p></div></div><div class="process-step"><span class="label">02</span><div><h3>Give materials a voice.</h3><p>A stone edge catching sunlight. Timber grain at hand height. Fabric softening a monumental room. The atmosphere lives in these relationships.</p></div></div><div class="process-step"><span class="label">03</span><div><h3>Compose the experience.</h3><p>Choose the camera, light and moment together. Build a sequence that moves from the scale of a landscape to the intimacy of an interior.</p></div></div></div></section>
-<section class="section about" id="about"><figure class="portrait-frame">{picture(PORTRAIT,sizes='(max-width:600px) 80vw, 42vw')}<figcaption><span>Odedipe Michael</span><span>Architectural visualiser</span></figcaption></figure><div><span class="label">03 / Behind the perspective</span><h2>A feeling<br><em>for space.</em></h2><p>I’m Michael, an architectural visualiser based in Nigeria. I’m drawn to expressive architecture and the quieter details that make a space believable.</p><p>From a sculptural landmark to a home at the edge of a forest, I bring a careful eye to proportion, atmosphere, furnishings and the way light meets a surface.</p><p>This collection follows fifteen concepts from drawn studies to finished exterior and interior imagery. Each is a different exploration of how architecture can be seen and felt.</p><ul class="services-list"><li><span>Exterior visualisation</span><span>01</span></li><li><span>Interior visualisation</span><span>02</span></li><li><span>Concept imagery &amp; presentation</span><span>03</span></li></ul><a class="text-link" href="mailto:{EMAIL}">Let’s discuss your vision <span class="arrow">↗</span></a></div></section></main>'''
+</main>'''
     body+=footer()+'</body></html>'
     (OUT/'index.html').write_text(decorate(body))
 
